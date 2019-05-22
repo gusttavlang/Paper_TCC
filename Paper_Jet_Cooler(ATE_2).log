@@ -1,0 +1,692 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.22)  27 MAR 2019 14:44
+entering extended mode
+**./Paper_Jet_Cooler(ATE_2).tex
+(Paper_Jet_Cooler(ATE_2).tex
+LaTeX2e <2017/01/01> patch level 3
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\elsarticle\elsarticle.cls"
+Document Class: elsarticle 2009/09/17, 1.2.0: Elsevier Ltd
+\@bls=\dimen102
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2016/10/09 v1.0u Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\pifont.sty"
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\upzd.fd"
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\upsy.fd"
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+\c@tnote=\count88
+\c@fnote=\count89
+\c@cnote=\count90
+\c@ead=\count91
+\c@author=\count92
+\@eadauthor=\toks15
+\c@affn=\count93
+\absbox=\box26
+\keybox=\box27
+\Columnwidth=\dimen106
+\space@left=\dimen107
+\els@boxa=\box28
+\els@boxb=\box29
+\leftMargin=\dimen108
+\@enLab=\toks16
+\@sep=\skip43
+\@@sep=\skip44
+
+(Paper_Jet_Cooler(ATE_2).spl)
+("C:\Program Files\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip45
+\bibsep=\skip46
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count94
+)
+\splwrite=\write3
+\openout3 = `Paper_Jet_Cooler(ATE_2).spl'.
+
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip47
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen109
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen110
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count95
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count96
+\leftroot@=\count97
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count98
+\DOTSCASE@=\count99
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box30
+\strutbox@=\box31
+\big@size=\dimen111
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count100
+\c@MaxMatrixCols=\count101
+\dotsspace@=\muskip10
+\c@parentequation=\count102
+\dspbrk@lvl=\count103
+\tag@help=\toks19
+\row@=\count104
+\column@=\count105
+\maxfields@=\count106
+\andhelp@=\toks20
+\eqnshift@=\dimen112
+\alignsep@=\dimen113
+\tagshift@=\dimen114
+\tagwidth@=\dimen115
+\totwidth@=\dimen116
+\lineht@=\dimen117
+\@envbody=\toks21
+\multlinegap=\skip48
+\multlinetaggap=\skip49
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.sty"
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip50
+\subfigcapskip=\skip51
+\subfigcaptopadj=\dimen118
+\subfigbottomskip=\skip52
+\subfigcapmargin=\dimen119
+\subfiglabelskip=\skip53
+\c@subfigure=\count107
+\c@lofdepth=\count108
+\c@subtable=\count109
+\c@lotdepth=\count110
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.cfg")
+\subfig@top=\skip54
+\subfig@bottom=\skip55
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\makeidx.sty"
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen120
+\lightrulewidth=\dimen121
+\cmidrulewidth=\dimen122
+\belowrulesep=\dimen123
+\belowbottomsep=\dimen124
+\aboverulesep=\dimen125
+\abovetopsep=\dimen126
+\cmidrulesep=\dimen127
+\cmidrulekern=\dimen128
+\defaultaddspace=\dimen129
+\@cmidla=\count111
+\@cmidlb=\count112
+\@aboverulesep=\dimen130
+\@belowrulesep=\dimen131
+\@thisruleclass=\count113
+\@lastruleclass=\count114
+\@thisrulewidth=\dimen132
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ctable\ctable.sty"
+Package: ctable 2015/10/17 v1.31 ctable package for flexible typesetting of tab
+le and figure floats using key/value directives
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
+Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count115
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
+\XKV@toks=\toks23
+\XKV@tempa@toks=\toks24
+)
+\XKV@depth=\count116
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen133
+\extrarowheight=\dimen134
+\NC@list=\toks25
+\extratabsurround=\skip56
+\backup@length=\skip57
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\tabularx.sty"
+Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
+\TX@col@width=\dimen135
+\TX@old@table=\dimen136
+\TX@old@col=\dimen137
+\TX@target=\dimen138
+\TX@delta=\dimen139
+\TX@cols=\count117
+\TX@ftn=\toks26
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\rotating.sty"
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count118
+\rotFPtop=\skip58
+\rotFPbot=\skip59
+\rot@float@box=\box32
+\rot@mess@toks=\toks27
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\transparent.sty"
+Package: transparent 2016/05/16 v1.1 Transparency via pdfTeX's color stack (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+))
+\@CTframesep=\dimen140
+\@dfltCTframesep=\dimen141
+\@CTframerule=\dimen142
+\@dfltCTframerule=\dimen143
+\@CTwidth=\dimen144
+\@dfltCTwidth=\dimen145
+\@CTcaptionskip=\dimen146
+\@dfltCTcaptionskip=\dimen147
+\@CTmaxwidth=\dimen148
+\@dfltCTmaxwidth=\dimen149
+\@CTmincapwidth=\dimen150
+\@dfltCTmincapwidth=\dimen151
+\@CTfooterwidth=\dimen152
+\@dfltCTfooterwidth=\dimen153
+\@CTw=\dimen154
+\@CTfloatwidth=\dimen155
+\@CToldsep=\dimen156
+\@CToldrule=\dimen157
+\CT@t=\box33
+\@CTcurftwidth=\dimen158
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tabulary\tabulary.sty"
+Package: tabulary 2014/06/11 v0.10 tabulary package (DPC)
+\TY@count=\count119
+\TY@linewidth=\dimen159
+\tymin=\dimen160
+\tymax=\dimen161
+\TY@tablewidth=\dimen162
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip60
+\multirow@cntb=\count120
+\multirow@dima=\skip61
+\bigstrutjot=\dimen163
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\nomencl\nomencl.sty"
+Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
+\nomlabelwidth=\dimen164
+\nom@tempdim=\dimen165
+\nomitemsep=\skip62
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty"
+Package: textcomp 2017/02/22 v2.0g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\colortbl\colortbl.sty"
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+\everycr=\toks28
+\minrowclearance=\skip63
+)
+\@nomenclaturefile=\write4
+\openout4 = `Paper_Jet_Cooler(ATE_2).nlo'.
+
+
+Writing nomenclature file Paper_Jet_Cooler(ATE_2).nlo
+(Paper_Jet_Cooler(ATE_2).aux)
+\openout1 = `Paper_Jet_Cooler(ATE_2).aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 25.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 25.
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count121
+\scratchdimen=\dimen166
+\scratchbox=\box34
+\nofMPsegments=\count122
+\nofMParguments=\count123
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count124
+\MPscratchDim=\dimen167
+\MPnumerator=\count125
+\makeMPintoPDFobject=\count126
+\everyMPtoPDFconversion=\toks30
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 41.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 41.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+
+{C:/Users/Usuario/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(Paper_Jet_Cooler(ATE_2).nls [2] [3]) [4] [5] [6]
+<Figure_1.png, id=33, 710.1732pt x 563.9469pt>
+File: Figure_1.png Graphic file (type png)
+ <use Figure_1.png>
+Package pdftex.def Info: Figure_1.png used on input line 73.
+(pdftex.def)             Requested size: 710.17146pt x 563.94553pt.
+ [7] [8 <./Figure_1.png>] [9] <Figure_2(a).pdf, id=47, 392.46625pt x 539.41527p
+t>
+File: Figure_2(a).pdf Graphic file (type pdf)
+
+<use Figure_2(a).pdf>
+Package pdftex.def Info: Figure_2(a).pdf used on input line 96.
+(pdftex.def)             Requested size: 392.46527pt x 539.41396pt.
+ <Figure_2(b).pdf, id=48, 367.17174pt x 539.41527pt>
+File: Figure_2(b).pdf Graphic file (type pdf)
+
+<use Figure_2(b).pdf>
+Package pdftex.def Info: Figure_2(b).pdf used on input line 98.
+(pdftex.def)             Requested size: 367.17082pt x 539.41396pt.
+ [10 <./Figure_2(a).pdf> <./Figure_2(b).pdf>]
+<Figure_3(a).pdf, id=72, 403.30673pt x 272.01625pt>
+File: Figure_3(a).pdf Graphic file (type pdf)
+ <use Figure_3(a).pdf>
+Package pdftex.def Info: Figure_3(a).pdf used on input line 111.
+(pdftex.def)             Requested size: 403.30574pt x 272.01558pt.
+
+<Figure_3(b).pdf, id=73, 359.66371pt x 239.57504pt>
+File: Figure_3(b).pdf Graphic file (type pdf)
+ <use Figure_3(b).pdf>
+Package pdftex.def Info: Figure_3(b).pdf used on input line 113.
+(pdftex.def)             Requested size: 359.66283pt x 239.57445pt.
+
+<Figure_4(a).pdf, id=74, 702.32388pt x 468.16908pt>
+File: Figure_4(a).pdf Graphic file (type pdf)
+ <use Figure_4(a).pdf>
+Package pdftex.def Info: Figure_4(a).pdf used on input line 123.
+(pdftex.def)             Requested size: 702.32216pt x 468.16794pt.
+
+<Figure_4(b).pdf, id=75, 549.65347pt x 362.35374pt>
+File: Figure_4(b).pdf Graphic file (type pdf)
+ <use Figure_4(b).pdf>
+Package pdftex.def Info: Figure_4(b).pdf used on input line 125.
+(pdftex.def)             Requested size: 549.65211pt x 362.35286pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[11 <./Figure_3(a).pdf> <./Figure_3(b).pdf>]
+<Figure_5(a).pdf, id=88, 850.17625pt x 611.28375pt>
+File: Figure_5(a).pdf Graphic file (type pdf)
+ <use Figure_5(a).pdf>
+Package pdftex.def Info: Figure_5(a).pdf used on input line 134.
+(pdftex.def)             Requested size: 201.02385pt x 144.54pt.
+
+<Figure_5(b).pdf, id=89, 236.15828pt x 237.97908pt>
+File: Figure_5(b).pdf Graphic file (type pdf)
+ <use Figure_5(b).pdf>
+Package pdftex.def Info: Figure_5(b).pdf used on input line 136.
+(pdftex.def)             Requested size: 143.43654pt x 144.54pt.
+
+[12 <./Figure_4(a).pdf> <./Figure_4(b).pdf>] [13 <./Figure_5(a).pdf> <./Figure_
+5(b).pdf>] [14] [15] [16] [17] [18]
+<Figure_7(a).pdf, id=153, 581.37201pt x 514.12076pt>
+File: Figure_7(a).pdf Graphic file (type pdf)
+ <use Figure_7(a).pdf>
+Package pdftex.def Info: Figure_7(a).pdf used on input line 354.
+(pdftex.def)             Requested size: 581.37057pt x 514.11949pt.
+
+<Figure_7(b).pdf, id=154, 581.37201pt x 514.12076pt>
+File: Figure_7(b).pdf Graphic file (type pdf)
+ <use Figure_7(b).pdf>
+Package pdftex.def Info: Figure_7(b).pdf used on input line 356.
+(pdftex.def)             Requested size: 581.37057pt x 514.11949pt.
+
+<Figure_8.pdf, id=155, 581.37201pt x 514.12076pt>
+File: Figure_8.pdf Graphic file (type pdf)
+ <use Figure_8.pdf>
+Package pdftex.def Info: Figure_8.pdf used on input line 363.
+(pdftex.def)             Requested size: 581.37057pt x 514.11949pt.
+ [19]
+[20 <./Figure_7(a).pdf, page is rotated 90 degrees> <./Figure_7(b).pdf, page is
+ rotated 90 degrees> <./Figure_8.pdf, page is rotated 90 degrees>]
+<Figure_9.pdf, id=181, 584.98549pt x 514.12076pt>
+File: Figure_9.pdf Graphic file (type pdf)
+ <use Figure_9.pdf>
+Package pdftex.def Info: Figure_9.pdf used on input line 372.
+(pdftex.def)             Requested size: 584.98405pt x 514.11949pt.
+ [21 <./Figure_9.pdf, page is rotated 90 degrees>]
+<Figure_10.pdf, id=191, 492.66058pt x 364.56201pt>
+File: Figure_10.pdf Graphic file (type pdf)
+ <use Figure_10.pdf>
+Package pdftex.def Info: Figure_10.pdf used on input line 383.
+(pdftex.def)             Requested size: 492.65938pt x 364.56111pt.
+
+<Figure_11(a).pdf, id=192, 581.37201pt x 514.12076pt>
+File: Figure_11(a).pdf Graphic file (type pdf)
+ <use Figure_11(a).pdf>
+Package pdftex.def Info: Figure_11(a).pdf used on input line 392.
+(pdftex.def)             Requested size: 581.37057pt x 514.11949pt.
+
+<Figure_11(b).pdf, id=193, 581.37201pt x 514.12076pt>
+File: Figure_11(b).pdf Graphic file (type pdf)
+ <use Figure_11(b).pdf>
+Package pdftex.def Info: Figure_11(b).pdf used on input line 394.
+(pdftex.def)             Requested size: 581.37057pt x 514.11949pt.
+
+[22 <./Figure_10.pdf>] <Figure_12(a).pdf, id=215, 581.37201pt x 514.12076pt>
+File: Figure_12(a).pdf Graphic file (type pdf)
+
+<use Figure_12(a).pdf>
+Package pdftex.def Info: Figure_12(a).pdf used on input line 408.
+(pdftex.def)             Requested size: 581.37057pt x 514.11949pt.
+ <Figure_12(b).pdf, id=216, 581.37201pt x 514.12076pt>
+File: Figure_12(b).pdf Graphic file (type pdf)
+
+<use Figure_12(b).pdf>
+Package pdftex.def Info: Figure_12(b).pdf used on input line 410.
+(pdftex.def)             Requested size: 581.37057pt x 514.11949pt.
+ [23 <./Figure_11(a).pdf, page is rotated 90 degrees> <./Figure_11(b).pdf, page
+ is rotated 90 degrees>]
+<Figure_13(a).pdf, id=242, 581.37201pt x 514.12076pt>
+File: Figure_13(a).pdf Graphic file (type pdf)
+ <use Figure_13(a).pdf>
+Package pdftex.def Info: Figure_13(a).pdf used on input line 423.
+(pdftex.def)             Requested size: 581.37057pt x 514.11949pt.
+
+<Figure_13(b).pdf, id=243, 581.37201pt x 514.12076pt>
+File: Figure_13(b).pdf Graphic file (type pdf)
+ <use Figure_13(b).pdf>
+Package pdftex.def Info: Figure_13(b).pdf used on input line 425.
+(pdftex.def)             Requested size: 581.37057pt x 514.11949pt.
+
+<Figure_14(a).pdf, id=244, 581.37201pt x 514.12076pt>
+File: Figure_14(a).pdf Graphic file (type pdf)
+ <use Figure_14(a).pdf>
+Package pdftex.def Info: Figure_14(a).pdf used on input line 432.
+(pdftex.def)             Requested size: 581.37057pt x 514.11949pt.
+
+<Figure_14(b).pdf, id=245, 581.37201pt x 514.12076pt>
+File: Figure_14(b).pdf Graphic file (type pdf)
+ <use Figure_14(b).pdf>
+Package pdftex.def Info: Figure_14(b).pdf used on input line 434.
+(pdftex.def)             Requested size: 581.37057pt x 514.11949pt.
+
+[24 <./Figure_12(a).pdf, page is rotated 90 degrees> <./Figure_12(b).pdf, page 
+is rotated 90 degrees>] [25 <./Figure_13(a).pdf, page is rotated 90 degrees> <.
+/Figure_13(b).pdf, page is rotated 90 degrees> <./Figure_14(a).pdf, page is rot
+ated 90 degrees> <./Figure_14(b).pdf, page is rotated 90 degrees>] [26]
+(Paper_Jet_Cooler(ATE_2).bbl [27] [28] [29] [30] [31]) [32]
+(Paper_Jet_Cooler(ATE_2).aux) ) 
+Here is how much of TeX's memory you used:
+ 5574 strings out of 493333
+ 73833 string characters out of 3139188
+ 142863 words of memory out of 3000000
+ 8944 multiletter control sequences out of 15000+200000
+ 12478 words of font info for 48 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 39i,12n,53p,2428b,351s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Usuario\AppData\Local\MiKTeX\2.9\font
+s\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msb
+m10.pfb>
+Output written on Paper_Jet_Cooler(ATE_2).pdf (32 pages, 9466610 bytes).
+PDF statistics:
+ 389 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 111 words of extra memory for PDF output out of 10000 (max. 10000000)
+

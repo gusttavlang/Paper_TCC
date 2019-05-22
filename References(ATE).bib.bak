@@ -1,0 +1,2971 @@
+% Encoding: windows-1252
+
+
+@Article{Abbasi2010,
+  Title                    = {Dynamic pressure based prediction of spray cooling heat transfer coefficients},
+  Author                   = {B. Abbasi and J. Kim and A. Marshall},
+  Journal                  = {International Journal of Multiphase Flow},
+  Year                     = {2010},
+
+  Month                    = {jun.},
+  Number                   = {6},
+  Pages                    = {491-502},
+  Volume                   = {36},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.17},
+  Url                      = {http://dx.doi.org/10.1016/j.ijmultiphaseflow.2010.01.007}
+}
+
+@Article{Agostini2007,
+  author =    {B. Agostini and M. Fabbri and J. E. Park and L. Wojtan and J. R. Thome and B. Michel},
+  title =     {{State of the Art of Heat Flux Cooling Technologies}},
+  journal =   {Heat Transfer Eng.},
+  year =      {2007},
+  volume =    {28},
+  number =    {4},
+  pages =     {258-281},
+  owner =     {Pablo},
+  timestamp = {2012.08.02}
+}
+
+@Article{Aguilar2001,
+  Title                    = {{Influence of Nozzle-to-Skin Distance in Cryogen Spray Cooling for Dermatologic Laser Surgery}},
+  Author                   = {G. Aguilar and B. Majaron and K. Pope and L. O. Svaasand and E. J. Lavernia and J. S. Nelson},
+  Journal                  = {Lasers in Surgery and Medicine},
+  Year                     = {2001},
+  Number                   = {2},
+  Pages                    = {113-120},
+  Volume                   = {28},
+
+  Doi                      = {10.1002/lsm.1025},
+  Pmid                     = {11241516},
+  Url                      = {http://dx.doi.org/10.1002/lsm.1025}
+}
+
+@Article{Aguilar2001a,
+  Title                    = {{Measurement of Heat Flux and Heat Transfer Coefficient During Continuous Cryogen Spray Cooling for Laser Dermatologic Surgery}},
+  Author                   = {G. Aguilar and W. Verkruysse and B. Majaron and L. O. Svaasand and E. J. Lavernia and J. S. Nelson},
+  Journal                  = {IEEE Journal of Selected Topics in Quantum Electronics},
+  Year                     = {2001},
+
+  Month                    = {nov./dez.},
+  Number                   = {6},
+  Pages                    = {1013-1021},
+  Volume                   = {7},
+
+  Doi                      = {10.1109/2944.983307},
+  Url                      = {http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=983307}
+}
+
+@Article{Aguilar2003,
+  Title                    = {{Dynamic Behavior of Cryogen Spray Cooling: Effects of Spurt Duration and Spray Distance}},
+  Author                   = {G. Aguilar and G.-X. Wang and J. S. Nelson},
+  Journal                  = {Lasers in Surgery and Medicine},
+  Year                     = {2003},
+  Number                   = {2},
+  Pages                    = {152-159},
+  Volume                   = {32},
+
+  Doi                      = {10.1002/lsm.10133},
+  Pmid                     = {12561050},
+  Url                      = {http://dx.doi.org/10.1002/lsm.10133}
+}
+
+@InProceedings{Amon2003,
+  Title                    = {{MEMS-BASED THERMAL MANAGEMENT OF HIGH HEAT FLUX DEVICES EDIFICE: EMBEDDED DROPLET IMPINGEMENT FOR INTEGRATED COOLING OF ELECTRONICS}},
+  Author                   = {C. H. Amon},
+  Booktitle                = {Proceedings},
+  Year                     = {2003},
+
+  Address                  = {Cambridge, MA},
+  Month                    = {may.},
+  Organization             = {Rohsenow Symposium on Future Trends in Heat Transfer},
+  Pages                    = {1-22},
+  Publisher                = {Warren M. Rohsenow Heat and Mass Transfer Laboratory},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2016.01.01},
+  Url                      = {http://hdl.handle.net/1721.1/7300}
+}
+
+@Article{Amon2005,
+  Title                    = {{Microelectromechanical System-Based Evaporative Thermal Management of High Heat Flux Electronics}},
+  Author                   = {C. H. Amon and S.-C. Yao and C.-F. Wu and C.-C. Hsieh},
+  Journal                  = {Journal of Heat Transfer},
+  Year                     = {2005},
+
+  Month                    = {jan.},
+  Number                   = {1},
+  Pages                    = {66-75},
+  Volume                   = {127},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.12.30}
+}
+
+@Article{Anandan2008,
+  author =    {S. S. Anandan and V. Ramalingam},
+  title =     {{Thermal Management of Electronics: A Review of Literature}},
+  journal =   {Therm. Sci.},
+  year =      {2008},
+  volume =    {12},
+  number =    {2},
+  pages =     {5-26},
+  month =     {dec.},
+  owner =     {Pablo},
+  timestamp = {2012.08.02}
+}
+
+@MastersThesis{Ashwood2006,
+  Title                    = {{Fluid Property Effects on Spray Cooling: An Experimental and Numerical Study}},
+  Author                   = {Andrea C. Ashwood},
+  School                   = {University of Wisconsin-Madison},
+  Year                     = {2006},
+
+  Owner                    = {Administrator},
+  Timestamp                = {2010.08.18}
+}
+
+@InProceedings{Ashwood2007,
+  Title                    = {{Spray Cooling with Mixtures of Dielectric Fluids}},
+  Author                   = {A. C. Ashwood and T. A. Shedd},
+  Booktitle                = {Proceedings of the 23rd IEEE SEMI-THERM Symposium},
+  Year                     = {2007},
+
+  Address                  = {San Jose (CA)},
+  Month                    = {mar.},
+  Organization             = {Twenty Third Annual IEEE Semiconductor Thermal Measurement and Management Symposium},
+  Pages                    = {144-148},
+  Publisher                = {IEEE},
+
+  Journal                  = {23rd IEEE SEMI-THERM Symposium}
+}
+
+@InProceedings{Ashwood2007a,
+  Title                    = {{A FUNDAMENTAL APPROACH TO MODELING TRANSPORT TO AN IMPINGING SPRAY}},
+  Author                   = {A. C. Ashwood and C. Lane and B. M. Regner and T. A. Shedd},
+  Booktitle                = {Proceedings},
+  Year                     = {2007},
+
+  Address                  = {Washington, DC (USA)},
+  Month                    = {ago.},
+  Organization             = {14th International Heat Transfer Conference - IHTC14},
+  Pages                    = {1-8},
+  Publisher                = {ASME},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.22}
+}
+
+@Article{Awad2008,
+  Title                    = {Effective property models for homogeneous two-phase flows},
+  Author                   = {M. M. Awad and Y. S. Muzychka},
+  Journal                  = {Experimental Thermal and Fluid Science},
+  Year                     = {2008},
+
+  Month                    = {oct.},
+  Number                   = {1},
+  Pages                    = {106-113},
+  Volume                   = {33},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.07.17}
+}
+
+@InProceedings{Bailey2009,
+  Title                    = {{An Oil-free Linear Compressor for use with Compact Heat Exchangers}},
+  Author                   = {P. B. Bailey and M. W. Dadd and C. R. Stone},
+  Booktitle                = {Proceedings},
+  Year                     = {2009},
+
+  Address                  = {London, UK},
+  Month                    = {sep.},
+  Organization             = {International Conference on Compressors and their Systems},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.30}
+}
+
+@InCollection{BarbosaJr.2006,
+  author =    {J. R. {Barbosa Jr.} and C. J. L. Hermes},
+  title =     {{Heat Transfer in Refrigeration Applications}},
+  booktitle = {Heat Exchanger Design Handbook - Heat Exchanger Design Updates},
+  publisher = {Begel House, Inc.},
+  year =      {2006},
+  editor =    {G. F. Hewitt},
+  volume =    {13},
+  chapter =   {3.26},
+  pages =     {1-30},
+  address =   {New York},
+  edition =   {1},
+  owner =     {Pablo},
+  timestamp = {2012.07.19}
+}
+
+@InProceedings{BARBOSAJR.2011,
+  Title                    = {{RECENT DEVELOPMENTS IN VAPOR COMPRESSION TECHNOLOGIES FOR SMALL SCALE REFRIGERATION APPLICATIONS}},
+  Author                   = {J. R. {BARBOSA JR.}},
+  Booktitle                = {Proceedings of the ICNMM2011},
+  Year                     = {2011},
+
+  Address                  = {Edmonton},
+  Month                    = {jun.},
+  Organization             = {ASME 2011 9th International Conference on Nanochannels, Microchannels and Minichannels},
+  Pages                    = {1-13},
+  Publisher                = {ASME},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.07.20}
+}
+
+@Article{BarbosaJr.2012,
+  author =    {J. R. {Barbosa Jr.} and G. B. Ribeiro and P. A. {de Oliveira}},
+  title =     {{A State-of-the-Art Review of Compact Vapor Compression Refrigeration Systems and Their Applications}},
+  journal =   {Heat Transfer Eng.},
+  year =      {2012},
+  volume =    {33},
+  number =    {4-5},
+  pages =     {356-374},
+  owner =     {Pablo},
+  timestamp = {2012.07.20}
+}
+
+@Article{Bar-Cohen2006,
+  author =    {A. Bar-Cohen and M. Arik and M. Ohadi},
+  title =     {{Direct Liquid Cooling of High Flux Micro and Nano Electronic Components}},
+  journal =   {Proceedings of the IEEE},
+  year =      {2006},
+  volume =    {94},
+  number =    {8},
+  pages =     {1549-1570},
+  month =     {aug.},
+  owner =     {Administrator},
+  timestamp = {2010.08.24}
+}
+
+@InProceedings{Bar-Cohen2013,
+  author =       {A. Bar-Cohen},
+  title =        {{Completing the Inward Migration - The Transformative Nature of Embedded Cooling}},
+  booktitle =    {Proceedings of the HT2013},
+  year =         {2013},
+  address =      {Minneapolis, MN},
+  month =        {jul.},
+  organization = {ASME 2013 Summer Heat Transfer Conference},
+  note =         {{Keynote lecture}},
+  owner =        {Pablo Adamoglu},
+  timestamp =    {2015.11.30}
+}
+
+@InProceedings{Bar-Cohen2014,
+  author =       {A. Bar-Cohen and C. A. Holloway},
+  title =        {Thermal science and engineering - from macro to nano in 200 years},
+  booktitle =    {Proceedings of the IHTC-15},
+  year =         {2014},
+  pages =        {1-18},
+  address =      {Kyoto, Japan},
+  month =        {aug.},
+  organization = {The 15th International Heat Transfer Conference (IHTC-15)},
+  note =         {{Fourier Lecture - Paper IHTC15-FL01}},
+  owner =        {Pablo Adamoglu},
+  timestamp =    {2015.12.08}
+}
+
+@Article{Barrau2010,
+  Title                    = {An experimental study of a new hybrid jet impingement/micro-channel cooling scheme},
+  Author                   = {J. Barrau and D. Chemisana and J. Rosell and L. Tadrist and M. Iba{\~n}ez},
+  Journal                  = {Applied Thermal Engineering},
+  Year                     = {2010},
+
+  Month                    = {oct.},
+  Number                   = {14-15},
+  Pages                    = {2058-2066},
+  Volume                   = {30},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.11.20}
+}
+
+@Article{Barrau2012,
+  Title                    = {Numerical study of a hybrid jet impingement/micro-channel cooling scheme},
+  Author                   = {J. Barrau and M. Omri and D. Chemisana and J. Rosell and M. Iba{\~n}ez and L. Tadrist},
+  Journal                  = {Applied Thermal Engineering},
+  Year                     = {2012},
+
+  Month                    = {feb.},
+  Pages                    = {237-245},
+  Volume                   = {33-34},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.11.20}
+}
+
+@Article{Basinger2004,
+  Title                    = {{Effect of Skin Indentation on Heat Transfer During Cryogen Spray Cooling}},
+  Author                   = {B. Basinger and G. Aguilar and J. S. Nelson},
+  Journal                  = {Lasers in Surgery and Medicine},
+  Year                     = {2004},
+
+  Month                    = {fev.},
+  Number                   = {2},
+  Pages                    = {155-163},
+  Volume                   = {34},
+
+  Doi                      = {10.1002/lsm.20011},
+  Pmid                     = {15004828},
+  Url                      = {http://dx.doi.org/10.1002/lsm.20011}
+}
+
+@InProceedings{Belady2001,
+  Title                    = {Cooling and {P}ower {C}onsiderations for {S}emiconductors into the {N}ext {C}entury},
+  Author                   = {C. Belady},
+  Booktitle                = {Proceedings},
+  Year                     = {2001},
+
+  Address                  = {Huntington Beach, CA},
+  Month                    = {aug.},
+  Organization             = {International Symposium on Low Power Electronics and Design},
+  Pages                    = {100-105},
+  Publisher                = {IEEE},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.30}
+}
+
+@Article{Bogaert1995,
+  Title                    = {{GLOBAL PERFORMANCE OF A PROTOTYPE BRAZED PLATE HEAT EXCHANGER IN A LARGE REYNOLDS NUMBER RANGE}},
+  Author                   = {R. Bogaert and A. B{\"o}lcs},
+  Journal                  = {Experimental Heat Transfer: A Journal of Thermal Energy Generation, Transport, Storage, and Conversion},
+  Year                     = {1995},
+
+  Month                    = {sep.},
+  Number                   = {4},
+  Pages                    = {293-311},
+  Volume                   = {8},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.12.17}
+}
+
+@Article{Bradshaw2011,
+  Title                    = {A comprehensive model of a miniature-scale linear compressor for electronics cooling},
+  Author                   = {C. R. Bradshaw and E. A. Groll and S. V. Garimella},
+  Journal                  = {International Journal of Refrigeration},
+  Year                     = {2011},
+
+  Month                    = {jan.},
+  Number                   = {1},
+  Pages                    = {63-73},
+  Volume                   = {34},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.30}
+}
+
+@Article{Bradshaw2013,
+  Title                    = {{Sensitivity analysis of a comprehensive model for a miniature-scale linear compressor for electronics cooling}},
+  Author                   = {C. R. Bradshaw and E. A. Groll and S. V. Garimella},
+  Journal                  = {International Journal of Refrigeration},
+  Year                     = {2013},
+
+  Month                    = {nov.},
+  Number                   = {7},
+  Pages                    = {1998-2006},
+  Volume                   = {36},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.11.19}
+}
+
+@Article{Bradshaw2013a,
+  Title                    = {{Linear compressors for electronics cooling: Energy recovery and its benefits}},
+  Author                   = {C. R. Bradshaw and E. A. Groll and S. V. Garimella},
+  Journal                  = {International Journal of Refrigeration},
+  Year                     = {2013},
+
+  Month                    = {nov.},
+  Number                   = {7},
+  Pages                    = {2007-2013},
+  Volume                   = {36},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.11.19}
+}
+
+@Article{Brown1962,
+  Title                    = {{S}prays {F}ormed by {F}lashing {J}ets},
+  Author                   = {R. Brown and L. York},
+  Journal                  = {American Institute of Chemical Engineers Journal},
+  Year                     = {1962},
+  Number                   = {2},
+  Pages                    = {149-153},
+  Volume                   = {8},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.10.30}
+}
+
+@Article{Browne2010,
+  Title                    = {Microjet array single-phase and flow boiling heat transfer with {R}134a},
+  Author                   = {E. A. Browne and G. J. Michna and M. K. Jensen and Yoav Peles},
+  Journal                  = {International Journal of Heat and Mass Transfer},
+  Year                     = {2010},
+
+  Month                    = {nov.},
+  Number                   = {23-24},
+  Pages                    = {5027-5034},
+  Volume                   = {53},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.13}
+}
+
+@Article{Browne2012,
+  author =    {E. A. Browne and M. K. Jensen and Yoav Peles},
+  title =     {Microjet array flow boiling with {R}134a and the effect of dissolved nitrogen},
+  journal =   {Int. J. Heat Mass Transfer},
+  year =      {2012},
+  volume =    {55},
+  number =    {4},
+  pages =     {825-833},
+  month =     {jan.},
+  owner =     {Pablo},
+  timestamp = {2012.08.13}
+}
+
+@Article{Buchanan2013,
+  author =    {R. A. Buchanan and T. A. Shedd},
+  title =     {{Extensive Parametric Study of Heat Transfer to Arrays of Oblique Impinging Jets With Phase Change}},
+  journal =   {J. Heat Transfer},
+  year =      {2013},
+  volume =    {135},
+  number =    {11},
+  pages =     {111017-1 - 111017-13},
+  month =     {nov.},
+  owner =     {Pablo Adamoglu},
+  timestamp = {2015.10.30}
+}
+
+@Article{Cabrera2003,
+  Title                    = {{HEAT FLUX CORRELATION FOR SPRAY COOLING IN THE NUCLEATE BOILING REGIME}},
+  Author                   = {E. Cabrera and J. E. Gonzalez},
+  Journal                  = {Experimental Heat Transfer: A Journal of Thermal Energy},
+  Year                     = {2003},
+  Number                   = {1},
+  Pages                    = {19-44},
+  Volume                   = {16},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.19},
+  Url                      = {http://www.tandfonline.com/doi/abs/10.1080/08916150390126450}
+}
+
+@Article{Cader2004,
+  author =  {T. Cader and L. J. Westra and R. C. Eden},
+  title =   {{Spray Cooling Thermal Management for Increased Device Reliability}},
+  journal = {IEEE Trans. Device Mater. Reliab.},
+  year =    {2004},
+  volume =  {4},
+  number =  {4},
+  pages =   {605-613},
+  month =   {dec.},
+  doi =     {10.1109/TDMR.2004.838978}
+}
+
+@Article{Cardenas2012,
+  Title                    = {{Heat transfer characteristics of submerged jet impingement boiling of saturated FC-72}},
+  Author                   = {R. Cardenas and V. Narayanan},
+  Journal                  = {International Journal of Heat and Mass Transfer},
+  Year                     = {2012},
+
+  Month                    = {jul.},
+  Number                   = {15-16},
+  Pages                    = {4217-4231},
+  Volume                   = {55},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.10.30}
+}
+
+@Article{Cardenas2014,
+  Title                    = {{A Generalized Critical Heat Flux Correlation for Submerged and Free Surface Jet Impingement Boiling}},
+  Author                   = {R. Cardenas and V. Narayanan},
+  Journal                  = {Journal of Heat Transfer},
+  Year                     = {2014},
+
+  Month                    = {sep.},
+  Number                   = {9},
+  Pages                    = {091501-1 - 091501-9},
+  Volume                   = {136},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.12.31}
+}
+
+@Book{Carey1992,
+  Title                    = {LIQUID-VAPOR PHASE-CHANGE PHENOMENA: An Introduction to the Thermophysics of Vaporization and Condensation Processes in Heat Transfer Equipment},
+  Author                   = {V. P. Carey},
+  Editor                   = {G. F. Hewitt and C. L. Tien},
+  Publisher                = {Hemisphere Publishing Corporation},
+  Year                     = {1992},
+  Series                   = {Series in Chemical and Mechanical Engineering},
+
+  Owner                    = {Pablo},
+  Pages                    = {645},
+  Timestamp                = {2012.07.23}
+}
+
+@Book{Cengel2006,
+  Title                    = {Thermodynamics: An Engineering Approach},
+  Author                   = {Y. A. Çengel and M. A. Boles},
+  Publisher                = {McGraw-Hill},
+  Year                     = {2006},
+
+  Address                  = {New York},
+  Edition                  = {5},
+  Series                   = {McGraw-Hill series in Mechanical Engineering},
+
+  Owner                    = {Administrador},
+  Pages                    = {988},
+  Timestamp                = {2008.06.17}
+}
+
+@Article{Chang2010,
+  Title                    = {{Miniature Vapor Compressor Refrigeration System for Electronic Cooling}},
+  Author                   = {C.-C. Chang and N.-W. Liang and S.-L. Chen},
+  Journal                  = {IEEE Transactions on Components and Packaging Technologies},
+  Year                     = {2010},
+
+  Month                    = {dec.},
+  Number                   = {4},
+  Pages                    = {794-800},
+  Volume                   = {33},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.11.19}
+}
+
+@Article{Chen2015,
+  author =    {S. Chen and J. Liu and X. Liu and Y. Hou},
+  title =     {{An experimental comparison of heat transfer characteristic between R134-a and R22 in spray cooling}},
+  journal =   {Exp. Therm. Fluid Sci.},
+  year =      {2015},
+  volume =    {66},
+  pages =     {206-212},
+  month =     {sep.},
+  owner =     {Pablo Adamoglu},
+  timestamp = {2016.01.04}
+}
+
+@Article{Cheng2010,
+  Title                    = {Experimental investigation of parameters effect on heat transfer of spray cooling},
+  Author                   = {W.-L. Cheng and Q.-N. Liu and R. Zhao and H.-L. Fan},
+  Journal                  = {Heat and Mass Transfer},
+  Year                     = {2010},
+
+  Month                    = {oct.},
+  Number                   = {8-9},
+  Pages                    = {911-921},
+  Volume                   = {46},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.07.24}
+}
+
+@Article{Cheng2011,
+  Title                    = {Spray characteristics and spray cooling heat transfer in the non-boiling regime},
+  Author                   = {W.-L. Cheng and F.-Y. Han and Q.-N. Liu and H.-L. Fan},
+  Journal                  = {Energy},
+  Year                     = {2011},
+
+  Month                    = {mai.},
+  Number                   = {5},
+  Pages                    = {3399-3405},
+  Volume                   = {36},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.07.24},
+  Url                      = {http://dx.doi.org/10.1016/j.energy.2011.03.039}
+}
+
+@Article{Cheng2011a,
+  Title                    = {Experimental and theoretical investigation of surface temperature non-uniformity of spray cooling},
+  Author                   = {W.-L. Cheng and F.-Y. Han and Q.-N. Liu and R. Zhao and H.-l. Fan},
+  Journal                  = {Energy},
+  Year                     = {2011},
+
+  Month                    = {jan.},
+  Number                   = {1},
+  Pages                    = {249-257},
+  Volume                   = {36},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.22},
+  Url                      = {http://dx.doi.org/10.1016/j.energy.2010.10.044}
+}
+
+@Article{Cheng2016,
+  author =  {W.-L. Cheng and W.-W. Zhang and H. Chen and L. Hu},
+  title =   {{Spray cooling and flash evaporation cooling: The current development and application}},
+  journal = {Renew. Sust. Energ. Rev.},
+  year =    {2016},
+  volume =  {55},
+  pages =   {614-628},
+  month =   {mar.}
+}
+
+@Article{Chien2011,
+  Title                    = {An experimental study of two-phase multiple jet cooling on finned surfaces using a dielectric fluid},
+  Author                   = {L.-H. Chien and C.-Y. Chang},
+  Journal                  = {Applied Thermal Engineering},
+  Year                     = {2011},
+
+  Month                    = {aug.},
+  Number                   = {11-12},
+  Pages                    = {1983-1993},
+  Volume                   = {31},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.11.27}
+}
+
+@Article{Chien2014,
+  Title                    = {An experimental study of two-phase convection in micro-channels with impinging {FC-72} jets},
+  Author                   = {L.-H. Chien and W.-R. Liao and H.-Y. Liu},
+  Journal                  = {Applied Thermal Engineering},
+  Year                     = {2014},
+
+  Month                    = {jun.},
+  Number                   = {1-2},
+  Pages                    = {159-167},
+  Volume                   = {67},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.11.27}
+}
+
+@Article{Chu2004,
+  author =    {R. C. Chu and R. E. Simons and M. J. Ellsworth and R. R. Schmidt and V. Cozzolino},
+  title =     {Review of {C}ooling {T}echnologies for {C}omputer {P}roducts},
+  journal =   {IEEE Trans. Device Mater. Reliab.},
+  year =      {2004},
+  volume =    {4},
+  number =    {4},
+  pages =     {568-585},
+  month =     {dec.},
+  owner =     {Pablo},
+  timestamp = {2012.08.30}
+}
+
+@Article{Chunqiang2012,
+  author =    {S. Chunqiang and S. Shuangquan and T. Changqing and X. Hongbo},
+  title =     {Development and experimental investigation of a novel spray cooling system integrated in refrigeration circuit},
+  journal =   {Appl. Therm. Eng.},
+  year =      {2012},
+  volume =    {33-34},
+  pages =     {246-252},
+  month =     {feb.},
+  owner =     {Pablo},
+  timestamp = {2012.08.02}
+}
+
+@Book{Coleman2009,
+  title =     {{Experimentation, Validation, and Uncertainty Analysis for Engineers}},
+  publisher = {John Wiley \& Sons, Inc.},
+  year =      {2009},
+  author =    {H. W. Coleman and W. G. Steele},
+  edition =   {{Third}},
+  owner =     {Pablo Adamoglu},
+  timestamp = {2015.11.08}
+}
+
+@Book{Cook2002,
+  Title                    = {Concepts and Applications of Finite Element Analysis},
+  Author                   = {R. D. Cook and D. S. Malkus and M. E. Plesha and R. J. Witt},
+  Editor                   = {W. Anderson},
+  Publisher                = {John Wiley \& Sons},
+  Year                     = {2002},
+  Edition                  = {4},
+
+  Owner                    = {Pablo},
+  Pages                    = {718},
+  Timestamp                = {2012.09.13}
+}
+
+@InProceedings{Copeland2004,
+  Title                    = {Power and Temperature Requirements for Refrigerated Systems},
+  Author                   = {D. Copeland and A. Chan},
+  Booktitle                = {Proceedings},
+  Year                     = {2004},
+
+  Address                  = {Las Vegas, NV},
+  Organization             = {9th Inter Society Conference on Thermal and Thermomechanical Phenomena in Electronic Systems},
+  Pages                    = {237-241},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.30}
+}
+
+@InProceedings{Cremaschi2007,
+  author =       {L. Cremaschi and E. A. Groll and S. V. Garimella},
+  title =        {{Performance Potential and Challenges of Future Refrigeration-based Electronics Cooling Approaches}},
+  booktitle =    {Proceedings},
+  year =         {2007},
+  editor =       {S. V. Garimella and A. S. Fleischer},
+  pages =        {119-128},
+  address =      {Santa Fe, NM},
+  month =        {jan.},
+  organization = {Thermal Challenges in Next Generation Electronic Systems (THERMES 2007)},
+  owner =        {Pablo},
+  timestamp =    {2012.08.30}
+}
+
+@InProceedings{DEOLIVEIRA2012,
+  Title                    = {PERFORMANCE ANALYSIS OF A SPRAY EVAPORATOR INTEGRATED WITH A MICRO COMPRESSOR FOR REMOVAL OF HIGH HEAT FLUXES},
+  Author                   = {Pablo A. {DE OLIVEIRA} and J. R. {BARBOSA JR.}},
+  Booktitle                = {Proceedings of 3rd EBECEM},
+  Year                     = {2012},
+
+  Address                  = {Curitiba},
+  Month                    = {mai.},
+  Organization             = {3rd Brazilian Conference on Boiling, Condensation and Multiphase Flow (EBECEM)},
+  Publisher                = {Universidade Tecnológica Federal do Paraná (UTFPR)},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.09.05}
+}
+
+@Article{Ebadian2011,
+  author =    {M. A. Ebadian and C. X. Lin},
+  title =     {{A Review of High-Heat-Flux Heat Removal Technologies}},
+  journal =   {J. Heat Transfer},
+  year =      {2011},
+  volume =    {133},
+  number =    {11},
+  pages =     {110801-1--10801-11},
+  owner =     {Pablo Adamoglu},
+  timestamp = {2015.11.30}
+}
+
+@Article{Estes1995,
+  Title                    = {Correlation of {S}auter mean diameter and critical heat flux for spray cooling of small surfaces},
+  Author                   = {K. A. Estes and I. Mudawar},
+  Journal                  = {International Journal of Heat and Mass Transfer},
+  Year                     = {1995},
+
+  Month                    = {nov.},
+  Number                   = {16},
+  Pages                    = {2985-2996},
+  Volume                   = {38},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.07.17},
+  Url                      = {http://dx.doi.org/10.1016/0017-9310(95)00046-C}
+}
+
+@Article{Estes1995a,
+  Title                    = {{Comparison of Two-Phase Electronic Cooling Using Free Jets and Sprays}},
+  Author                   = {K. A. Estes and I. Mudawar},
+  Journal                  = {Journal of Electronic Packaging},
+  Year                     = {1995},
+
+  Month                    = {dez.},
+  Number                   = {4},
+  Pages                    = {323-332},
+  Volume                   = {117},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.07.17},
+  Url                      = {http://dx.doi.org/10.1115/1.2792112}
+}
+
+@InProceedings{Fabbri2003,
+  Title                    = {{COMPARATIVE STUDY OF SPRAY AND MULTIPLE MICRO JETS COOLING FOR HIGH POWER DENSITY ELECTRONIC APPLICATIONS}},
+  Author                   = {M. Fabbri and S. Jiang and V. K. Dhir},
+  Booktitle                = {Proceedings of IMECE'03},
+  Year                     = {2003},
+
+  Address                  = {Washington, D. C.},
+  Month                    = {nov.},
+  Organization             = {ASME 2003 International Mechanical Engineering Congress and Exposition},
+  Pages                    = {1-9},
+  Publisher                = {ASME},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.07.20}
+}
+
+@Article{Fabbri2005,
+  Title                    = {{A Comparative Study of Cooling of High Power Density Electronics Using Sprays and Microjets}},
+  Author                   = {M. Fabbri and S. Jiang and V. K. Dhir},
+  Journal                  = {Journal of Heat Transfer},
+  Year                     = {2005},
+
+  Month                    = {jan.},
+  Number                   = {1},
+  Pages                    = {38-48},
+  Volume                   = {127},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.02}
+}
+
+@Article{Fabbri2005a,
+  Title                    = {{Optimized Heat Transfer for High Power Electronic Cooling Using Arrays of Microjets}},
+  Author                   = {M. Fabbri and V. K. Dhir},
+  Journal                  = {Journal of Heat Transfer},
+  Year                     = {2005},
+
+  Month                    = {jul.},
+  Number                   = {7},
+  Pages                    = {760-769},
+  Volume                   = {127},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.02}
+}
+
+@InCollection{Fabbri2005b,
+  Title                    = {{HEAT REMOVAL USING NARROW CHANNELS, SPRAYS AND MICROJETS}},
+  Author                   = {M. Fabbri and S. Jiang and G. R. Warrier and V. K. Dhir},
+  Booktitle                = {Microscale Heat Transfer - Fundamentals and Applications},
+  Publisher                = {Springer},
+  Year                     = {2005},
+
+  Address                  = {The Netherlands},
+  Editor                   = {S. Kaka{\c c} and L. L. Vasiliev and Y. Bayazito{\v g}lu and Y. Yener},
+  Note                     = {Proceedings of the NATO Advanced Study Institute on Microscale Heat Transfer - Fundamentals and Applications in Biological and Microelectromechanical Systems},
+  Pages                    = {231-254},
+  Series                   = {NATO Science Series II: Mathematics, Physics and Chemistry},
+  Volume                   = {193},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.07.19}
+}
+
+@Book{Ferziger2002,
+  Title                    = {Computational Methods for Fluid Dynamics},
+  Author                   = {J. H. Ferziger and M. Peri{\'c}},
+  Publisher                = {Springer},
+  Year                     = {2002},
+
+  Owner                    = {Administrador},
+  Pages                    = {423},
+  Timestamp                = {2008.06.17}
+}
+
+@Article{Garcia-Cascales2007,
+  Title                    = {Assessment of boiling and condensation heat transfer correlations in the modelling of plate heat exchangers},
+  Author                   = {J. R. Garc{\'i}a-Cascales and F. Vera-Garc{\'i}a and J. M. Corber{\'a}n-Salvador and J. Gonz{\'a}lvez-Maci{\'a}},
+  Journal                  = {International Journal of Refrigeration},
+  Year                     = {2007},
+
+  Month                    = {sep.},
+  Number                   = {6},
+  Pages                    = {1029-1041},
+  Volume                   = {30},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.07.30}
+}
+
+@Article{Garimella1995,
+  Title                    = {{Confined and Submerged Liquid Jet Impingement Heat Transfer}},
+  Author                   = {S. V. Garimella and R. A. Rice},
+  Journal                  = {Journal of Heat Transfer},
+  Year                     = {1995},
+
+  Month                    = {nov.},
+  Number                   = {4},
+  Pages                    = {871-877},
+  Volume                   = {117},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.12.31}
+}
+
+@Article{Garimella2008,
+  Title                    = {Thermal {C}hallenges in {N}ext-{G}eneration {E}lectronic {S}ystems},
+  Author                   = {S. V. Garimella and A. S. Fleisher and J. Y. Murthy and A. Keshavarzi and R. Prasher and C. Patel and S. Bhavnani and R. Venkatasubramanian and R. Mahajan and Y. Joshi and B. Sammakia and B. A. Myers and L. Chorosinski and M. Baelmans and P. Sathyamurthy and P. Raad},
+  Journal                  = {IEEE Transactions on Components and Packaging Technologies},
+  Year                     = {2008},
+
+  Month                    = {dez.},
+  Number                   = {4},
+  Pages                    = {801-815},
+  Volume                   = {31},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.30},
+  Url                      = {http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4675673}
+}
+
+@InProceedings{Gehring2010,
+  Title                    = {{NUMERICAL SIMULATION OF HEAT TRANSFER MECHANISMS IN SPRAY COOLING}},
+  Author                   = {E. Gehring and M. F. Trujillo},
+  Booktitle                = {Proceedings},
+  Year                     = {2010},
+
+  Address                  = {Washington, DC (USA)},
+  Month                    = {ago.},
+  Organization             = {14th International Heat Transfer Conference - IHTC14},
+  Pages                    = {1-8},
+  Publisher                = {ASME},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.22}
+}
+
+@Book{Ghiaasiaan2008,
+  Title                    = {Two-Phase Flow, Boiling, and Condensation in Conventional and Miniature Systems},
+  Author                   = {S. M. Ghiaasiaan},
+  Editor                   = {New York},
+  Publisher                = {Cambridge University Press},
+  Year                     = {2008},
+
+  Owner                    = {Pablo},
+  Pages                    = {613},
+  Timestamp                = {2012.07.23}
+}
+
+@Article{Ghodbane1991,
+  Title                    = {Experimental study of spray cooling with {F}reon-113},
+  Author                   = {M. Ghodbane and J. P. Holman},
+  Journal                  = {International Journal of Heat and Mass Transfer},
+  Year                     = {1991},
+
+  Month                    = {abr.-mai.},
+  Number                   = {4-5},
+  Pages                    = {1163-1174},
+  Volume                   = {34},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.19},
+  Url                      = {http://dx.doi.org/10.1016/0017-9310(91)90025-A}
+}
+
+@MastersThesis{Glassman2005,
+  Title                    = {SPRAY COOLING FOR LAND, SEA, AIR AND SPACE BASED APPLICATIONS, A FLUID MANAGEMENT SYSTEM FOR MULTIPLE NOZZLE SPRAY COOLING AND A GUIDE TO HIGH HEAT FLUX HEATER DESIGN},
+  Author                   = {Brian Scott Glassman},
+  School                   = {University of Central Florida},
+  Year                     = {2005},
+
+  Owner                    = {Administrator},
+  Timestamp                = {2010.08.18},
+  Url                      = {http://etd.fcla.edu/CF/CFE0000473/FinalFullThesisReferances.pdf}
+}
+
+@Book{Gosney1982,
+  Title                    = {Principles of Refrigeration},
+  Author                   = {W. B. Gosney},
+  Publisher                = {Cambridge University Press},
+  Year                     = {1982},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.10.23}
+}
+
+@Article{Gould2015,
+  author =    {K. Gould and S. Q. Cai and C. Neft and A. Bhunia},
+  title =     {{Liquid Jet Impingement Cooling of a Silicon Carbide Power Conversion Module for Vehicle Applications}},
+  journal =   {IEEE Trans. Power Electron.},
+  year =      {2015},
+  volume =    {30},
+  number =    {6},
+  pages =     {2975-2984},
+  month =     {jun.},
+  owner =     {Pablo Adamoglu},
+  timestamp = {2015.11.21}
+}
+
+@PhdThesis{Gut2003,
+  Title                    = {CONFIGURAÇÕES ÓTIMAS PARA TROCADORES DE CALOR A PLACAS},
+  Author                   = {J. A. W. Gut},
+  School                   = {Universidade de São Paulo (USP)},
+  Year                     = {2003},
+
+  Address                  = {São Paulo},
+  Type                     = {Doutorado em Engenharia Química},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.07.29},
+  Url                      = {http://www.teses.usp.br/teses/disponiveis/3/3137/tde-22102003-093322/pt-br.php}
+}
+
+@InProceedings{HangKabbani2015,
+  author =       {Y. Hang and H. Kabbani},
+  title =        {{Thermal Management in Mobile Devices: Challenges and Solutions}},
+  booktitle =    {Proceedings of SEMI-THERM 31},
+  year =         {2015},
+  pages =        {46-49},
+  address =      {San Jose, CA},
+  month =        mar,
+  organization = {Thirty-First Semiconductor Thermal Measurement, Modeling and Management Symposium (SEMI-THERM 31)},
+  publisher =    {IEEE}
+}
+
+@Article{Hayes2011,
+  Title                    = {Study of carbon dioxide condensation in chevron plate exchangers; heat transfer analysis},
+  Author                   = {N. Hayes and A. Jokar and Z. H. Ayub},
+  Journal                  = {International Journal of Heat and Mass Transfer},
+  Year                     = {2011},
+
+  Month                    = {fev.},
+  Number                   = {5-6},
+  Pages                    = {1121-1131},
+  Volume                   = {54},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.07.27},
+  Url                      = {http://dx.doi.org/10.1016/j.ijheatmasstransfer.2010.11.010}
+}
+
+@Article{He2015,
+  Title                    = {Experimental study of a miniature vapor compression refrigeration system with two heat sink evaporators connected in series or in parallel},
+  Author                   = {J. He and Y. Wu and X. Chen and Y. Lu and C. Ma and C. Du and G. Liu and R. Ma},
+  Journal                  = {International Journal of Refrigeration},
+  Year                     = {2015},
+
+  Month                    = {jan.},
+  Pages                    = {28-35},
+  Volume                   = {49},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.11.19}
+}
+
+@Article{Hermes2010,
+  Title                    = {{Algebraic Solution of Capillary Tube Flows: Part I: Adiabatic Capillary Tubes}},
+  Author                   = {C. J. L. Hermes and C. Melo and F. T. Knabben},
+  Journal                  = {Applied Thermal Engineering},
+  Year                     = {2010},
+  Number                   = {5},
+  Pages                    = {449-457},
+  Volume                   = {30},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.11.10}
+}
+
+@Article{Hermes2012,
+  author =    {C. J. L. Hermes and J. R. {Barbosa Jr.}},
+  title =     {Thermodynamic comparison of {P}eltier, {S}tirling, and vapor compression portable coolers},
+  journal =   {Appl. Energ.},
+  year =      {2012},
+  volume =    {91},
+  number =    {1},
+  pages =     {51-58},
+  month =     {mar.},
+  owner =     {Pablo},
+  timestamp = {2012.08.17}
+}
+
+@InProceedings{Heydari2002,
+  author =       {A. Heydari},
+  title =        {{Miniature Vapor Compression Refrigeration System for Active Cooling of High Performace Computers}},
+  booktitle =    {Proceedings},
+  year =         {2002},
+  pages =        {371-378},
+  address =      {San Diego, CA},
+  organization = {The Eighth Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems (ITHERM 2002)},
+  publisher =    {IEEE},
+  owner =        {Pablo},
+  timestamp =    {2012.08.30}
+}
+
+@Article{Holman1993,
+  Title                    = {Extended studies of spray cooling with {F}reon-113},
+  Author                   = {J. P. Holman and C. M. Kendall},
+  Journal                  = {International Journal of Heat and Mass Transfer},
+  Year                     = {1993},
+  Note                     = {Technical note},
+  Number                   = {8},
+  Pages                    = {2239-2241},
+  Volume                   = {36},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.19},
+  Url                      = {http://dx.doi.org/10.1016/S0017-9310(05)80155-3}
+}
+
+@Article{Hou2012,
+  Title                    = {Numerical characterization of multi-nozzle spray cooling},
+  Author                   = {Yan Hou and Yujia Tao and Xiulan Huai and Zhixiong Guo},
+  Journal                  = {Applied Thermal Engineering},
+  Year                     = {2012},
+
+  Month                    = {jun.},
+  Pages                    = {163-170},
+  Volume                   = {39},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.22},
+  Url                      = {http://dx.doi.org/10.1016/j.applthermaleng.2012.01.030}
+}
+
+@Article{Hou2015,
+  author =    {Y. Hou and J. Liu and X. Su and Y. Qian and L. Liu and X. Liu},
+  title =     {{Experimental study on the characteristics of a closed loop R134-a spray cooling}},
+  journal =   {Exp. Therm. Fluid Sci.},
+  year =      {2015},
+  volume =    {61},
+  pages =     {194-200},
+  month =     {feb.},
+  owner =     {Pablo Adamoglu},
+  timestamp = {2016.01.04}
+}
+
+@Book{Howell1987,
+  Title                    = {{Fundamentals of Engineering Thermodynamics}},
+  Author                   = {J. R. Howell and R. O. Buckius},
+  Editor                   = {Anne Duffy and J. W. Maisel},
+  Publisher                = {McGraw-Hill Book Company},
+  Year                     = {1987},
+  Edition                  = {{SI} Version},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.11.08}
+}
+
+@Article{Hsieh2004,
+  Title                    = {Spray cooling characteristics of water and {R}-134a. {P}art {I}: nucleate boiling},
+  Author                   = {S.-S. Hsieh and T.-C. Fan and H.-H. Tsai},
+  Journal                  = {International Journal of Heat and Mass Transfer},
+  Year                     = {2004},
+
+  Month                    = {dez.},
+  Number                   = {26},
+  Pages                    = {5703-5712},
+  Volume                   = {47},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.07.17},
+  Url                      = {http://dx.doi.org/10.1016/j.ijheatmasstransfer.2004.07.022}
+}
+
+@Article{Hsieh2007,
+  Title                    = {R-134a spray dynamics and impingement cooling in the non-boiling regime},
+  Author                   = {S.-S. Hsieh and C.-H. Tien},
+  Journal                  = {International Journal of Heat and Mass Transfer},
+  Year                     = {2007},
+
+  Month                    = {fev.},
+  Number                   = {3-4},
+  Pages                    = {502-512},
+  Volume                   = {50},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.02},
+  Url                      = {http://dx.doi.org/10.1016/j.ijheatmasstransfer.2006.07.023}
+}
+
+@Article{Huang2012,
+  Title                    = {Heat transfer and pressure drop in plate heat exchanger refrigerant evaporators},
+  Author                   = {J. Huang and T. J. Sheer and M. Bailey-McEwan},
+  Journal                  = {International Journal of Refrigeration},
+  Year                     = {2012},
+
+  Month                    = {mar.},
+  Number                   = {2},
+  Pages                    = {325-335},
+  Volume                   = {35},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.07.29}
+}
+
+@Book{Incropera2002,
+  Title                    = {Fundamentos de Transferência de Calor e de Massa},
+  Author                   = {F. P. Incropera and D. P. Dewitt},
+  Publisher                = {Livros Técnicos e Científicos Editora},
+  Year                     = {2002},
+
+  Address                  = {Rio de Janeiro},
+  Edition                  = {5},
+
+  Owner                    = {Administrador},
+  Pages                    = {698},
+  Timestamp                = {2008.06.17}
+}
+
+@Manual{INMETRO2012,
+  Title                    = {{A}valia\c{c}\~{a}o de dados de medi\c{c}\~{a}o: {G}uia para a express\~{a}o de incerteza de medi\c{c}\~{a}o - {GUM2008}},
+
+  Address                  = {Duque de Caxias (RJ)},
+  Author                   = {INMETRO},
+  Organization             = {INMETRO / CICMA / SEPIN},
+  Year                     = {2012},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.11.08}
+}
+
+@Article{Jeong2004,
+  Title                    = {How difficult is it to make a micro refrigerator?},
+  Author                   = {S. Jeong},
+  Journal                  = {International Journal of Refrigeration},
+  Year                     = {2004},
+
+  Month                    = {may.},
+  Note                     = {Short Communication},
+  Number                   = {3},
+  Pages                    = {309-313},
+  Volume                   = {27},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.12.01}
+}
+
+@Article{Jin2011,
+  Title                    = {{Characteristics of R-123 two-phase flow through micro-scale short tube orifice for design of a small cooling system}},
+  Author                   = {S. Jin and T. Sung and T. Seo and J. Kim},
+  Journal                  = {Experimental Thermal and Fluid Science},
+  Year                     = {2011},
+
+  Month                    = {oct.},
+  Number                   = {7},
+  Pages                    = {1484-1489},
+  Volume                   = {35},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.11.19}
+}
+
+@Article{Jokar2006,
+  Title                    = {Dimensional analysis on the evaporation and condensation of refrigerant {R}-134a in minichannel plate heat exchangers},
+  Author                   = {A. Jokar and M. H. Hosni and S. J. Eckels},
+  Journal                  = {Applied Thermal Engineering},
+  Year                     = {2006},
+
+  Month                    = {dez.},
+  Number                   = {17-18},
+  Pages                    = {2287-2300},
+  Volume                   = {26},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.07.27},
+  Url                      = {http://dx.doi.org/10.1016/j.applthermaleng.2006.03.015}
+}
+
+@InProceedings{Joshi2013,
+  Title                    = {{AN EXPERIMENTAL STUDY OF A MULTI-DEVICE JET IMPINGEMENT COOLER WITH PHASE CHANGE USING HFE-7100}},
+  Author                   = {S. N. Joshi and M. J. Rau and E. M. Dede},
+  Booktitle                = {Proceedings of the IMECE2013},
+  Year                     = {2013},
+
+  Address                  = {San Diego, CA},
+  Note                     = {Paper No. 63249},
+  Organization             = {ASME 2013 International Mechanical Engineering Congress and Exposition (IMECE2013)},
+  Pages                    = {1-10},
+  Publisher                = {ASME},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.11.22}
+}
+
+@InProceedings{Joshi2013a,
+  Title                    = {{AN EXPERIMENTAL STUDY OF A MULTI-DEVICE JET IMPINGEMENT COOLER WITH PHASE CHANGE USING HFE-7100}},
+  Author                   = {S. N. Joshi and M. J. Rau and E. M. Dede and S. V. Garimella},
+  Booktitle                = {Proceedings of the HT2013},
+  Year                     = {2013},
+
+  Address                  = {Minneapolis, MN},
+  Note                     = {Paper No. 17059},
+  Organization             = {ASME 2013 Heat Transfer Summer Conference (HT2013)},
+  Pages                    = {1-9},
+  Publisher                = {ASME},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.11.22}
+}
+
+@Article{Joshi2015,
+  author =    {S. N. Joshi and E. M. Dede},
+  title =     {Effect of sub-cooling on performance of a multi-jet two phase cooler with multi-scale porous surfaces},
+  journal =   {Int. J. Therm. Sci.},
+  year =      {2015},
+  volume =    {87},
+  pages =     {110-120},
+  month =     {jan.},
+  owner =     {Pablo Adamoglu},
+  timestamp = {2015.11.22}
+}
+
+@Article{Kadam2014,
+  author =    {S. T. Kadam and R. Kumar},
+  title =     {{Twenty first century cooling solution: Microchannel heat sinks}},
+  journal =   {Int. J. Therm. Sci.},
+  year =      {2014},
+  volume =    {85},
+  pages =     {73-92},
+  month =     {nov.},
+  owner =     {Pablo Adamoglu},
+  timestamp = {2016.01.05}
+}
+
+@Article{Kandlikar2007,
+  author =    {S. G. Kandlikar and A. V. Bapat},
+  title =     {{Evaluation of Jet Impingement, Spray And Microchannel Chip Cooling Options for High Heat Flux Removal}},
+  journal =   {Heat Transfer Eng.},
+  year =      {2007},
+  volume =    {28},
+  number =    {11},
+  pages =     {911-923},
+  owner =     {Pablo},
+  timestamp = {2012.08.02}
+}
+
+@InCollection{Karami2011,
+  Title                    = {Flashing {S}prays},
+  Author                   = {R. Karami and N. Ashgriz},
+  Booktitle                = {Handbook of Atomization and Sprays Theory and Applications},
+  Publisher                = {Springer Science+Business Media},
+  Year                     = {2011},
+
+  Address                  = {New York},
+  Chapter                  = {10},
+  Editor                   = {N. Ashgriz},
+  Pages                    = {233-254},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.07.19}
+}
+
+@Article{Karwa2007,
+  Title                    = {Experimental study of non-boiling heat transfer from a horizontal surface by water sprays},
+  Author                   = {N. Karwa and S. R. Kale and P. M. V. Subbarao},
+  Journal                  = {Experimental Thermal and Fluid Science},
+  Year                     = {2007},
+
+  Month                    = {nov.},
+  Number                   = {2},
+  Pages                    = {571-579},
+  Volume                   = {32},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.07.24},
+  Url                      = {http://dx.doi.org/10.1016/j.expthermflusci.2007.06.007}
+}
+
+@Article{Kattan1998,
+  Title                    = {{Flow Boiling in Horizontal Tubes: Part 1 -- Development of a Diabatic Two-Phase Flow Pattern Map}},
+  Author                   = {N. Kattan and J. R. Thome and D. Favrat},
+  Journal                  = {Journal of Heat Transfer},
+  Year                     = {1998},
+
+  Month                    = {feb.},
+  Number                   = {1},
+  Pages                    = {140-147},
+  Volume                   = {120},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2016.01.11}
+}
+
+@Article{Kattan1998a,
+  Title                    = {{Flow Boiling in Horizontal Tubes: Part 3 -- Development of a New Heat Transfer Model Based on Flow Pattern}},
+  Author                   = {N. Kattan and J. R. Thome and D. Favrat},
+  Journal                  = {Journal of Heat Transfer},
+  Year                     = {1998},
+
+  Month                    = {feb.},
+  Number                   = {1},
+  Pages                    = {156-165},
+  Volume                   = {120},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2016.01.11}
+}
+
+@Article{KheirabadiGroulx2016,
+  author =  {A. C. Kheirabadi and D. Groulx},
+  title =   {{Cooling of server electronics: A design review of existing technology}},
+  journal = {Appl. Therm. Eng.},
+  year =    {2016},
+  note =    {{} Article in press}
+}
+
+@Article{Kim2007,
+  author =  {J. Kim},
+  title =   {Spray cooling heat transfer: {T}he state of the art},
+  journal = {Int. J. Heat Fluid Flow},
+  year =    {2007},
+  volume =  {28},
+  number =  {4},
+  pages =   {753-767},
+  month =   {aug.}
+}
+
+@Electronic{Klein2004,
+  Title                    = {EES - Engineering Equation Solver},
+  Author                   = {S. A. Klein},
+  Note                     = {Professional Version V8.701-3D},
+  Organization             = {F-chart Software},
+  Year                     = {2004},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.07.27}
+}
+
+@InProceedings{Kulkarni2002,
+  Title                    = {Effect of the Thermostatic Expansion Valve Characteristics on The Stability of a Refrigeration System. Part I},
+  Author                   = {A. Kulkarni and V. Mulay and D. Agonafer and T. Schmidt},
+  Booktitle                = {Proceedings},
+  Year                     = {2002},
+
+  Address                  = {San Diego, CA},
+  Organization             = {8th Inter Society Conference on Thermal and Thermomechanical Phenomena in Electronic Systems},
+  Pages                    = {403-407},
+  Publisher                = {IEEE},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.30}
+}
+
+@Article{Labuntsov1957,
+  Title                    = {Heat transfer in film condensation of pure steam on vertical surfaces and horizontal tubes},
+  Author                   = {D. A. Labuntsov},
+  Journal                  = {Teploenergetika},
+  Year                     = {1957},
+  Number                   = {7},
+  Pages                    = {72-79},
+  Volume                   = {4},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2016.01.25}
+}
+
+@InProceedings{Lamaison2014,
+  Title                    = {RECENT ADVANCES IN ON-CHIP COOLING SYSTEMS: EXPERIMENTAL EVALUATION AND DYNAMIC MODELING},
+  Author                   = {N. Lamaison and J. B. Marcinichen and J. R. Thome},
+  Booktitle                = {Proceedings of the IHTC-15},
+  Year                     = {2014},
+
+  Address                  = {Kyoto, Japan},
+  Month                    = {aug.},
+  Note                     = {Keynote Lecture - Paper IHTC15-KN06},
+  Organization             = {The 15th International Heat Transfer Conference (IHTC-15)},
+  Pages                    = {1-35},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.12.08}
+}
+
+@Article{Lamanna2014,
+  author =  {G. Lamanna and H. Kamoun and B. Weigand and J. Steelant},
+  title =   {Towards a unified treatment of fully flashing sprays},
+  journal = {International Journal of Multiphase Flow},
+  year =    {2014},
+  volume =  {58},
+  pages =   {168-184},
+  month =   {jan.}
+}
+
+@Book{Lee2010,
+  Title                    = {Thermal Design: Heat Sinks, Thermoeletrics, Heat Pipes, Compact Heat Exchangers, and Solar Cells},
+  Author                   = {H. Lee},
+  Publisher                = {John Wiley \& Sons},
+  Year                     = {2010},
+
+  Address                  = {New Jersey},
+
+  Owner                    = {Pablo},
+  Pages                    = {630},
+  Timestamp                = {2012.07.27}
+}
+
+@Book{Lefebvre1989,
+  Title                    = {Atomization and Sprays},
+  Author                   = {A. H. Lefebvre},
+  Editor                   = {Norman Chigier},
+  Publisher                = {Taylor and Francis},
+  Year                     = {1989},
+  Series                   = {Combustion: An International Series},
+
+  Owner                    = {Pablo},
+  Pages                    = {421},
+  Timestamp                = {2012.07.20}
+}
+
+@Electronic{Lemmon2007,
+  author =       {E. W. Lemmon and M. L. Huber and M.O. McLinden},
+  year =         {2007},
+  title =        {{NIST Reference Fluid Thermodynamic and Transport Properties - REFPROP}},
+  language =     {Fortran},
+  organization = {NIST},
+  note =         {Version 8.0},
+  owner =        {Pablo},
+  timestamp =    {2012.07.27}
+}
+
+@Article{Liang2014,
+  Title                    = {{A novel linear electromagnetic-drive oil-free refrigeration compressor using R134a}},
+  Author                   = {K. Liang and R. Stone and M. Dadd and P. Bailey},
+  Journal                  = {International Journal of Refrigeration},
+  Year                     = {2014},
+
+  Month                    = {apr.},
+  Pages                    = {450-459},
+  Volume                   = {40},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.11.19}
+}
+
+@Article{Liang2014a,
+  Title                    = {{Modelling and measurement of a moving magnet linear compressor performance}},
+  Author                   = {K. Liang and R. Stone and G. Davies and M. Dadd and P. Bailey},
+  Journal                  = {Energy},
+  Year                     = {2014},
+
+  Month                    = {mar.},
+  Number                   = {1},
+  Pages                    = {487-495},
+  Volume                   = {66},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.11.19}
+}
+
+@Article{Liang2014b,
+  Title                    = {{Comparison between a crank-drive reciprocating compressor and a novel oil-free linear compressor}},
+  Author                   = {K. Liang and R. Stone and W. Hancock and M. Dadd and P. Bailey},
+  Journal                  = {International Journal of Refrigeration},
+  Year                     = {2014},
+
+  Month                    = {sep.},
+  Pages                    = {25-34},
+  Volume                   = {45},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.11.19}
+}
+
+@InCollection{LIENHARDV1995,
+  Title                    = {{ANNUAL REVIEW OF HEAT TRANSFER}},
+  Author                   = {J. H. {LIENHARD V}},
+  Booktitle                = {LIQUID JET IMPINGEMENT},
+  Publisher                = {Begel House, Inc},
+  Year                     = {1995},
+  Chapter                  = {4},
+  Pages                    = {199-270},
+  Volume                   = {6},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.12.31}
+}
+
+@Article{LIENHARDV1999,
+  Title                    = {{High Heat Flux Cooling by Liquid Jet-Array Modules}},
+  Author                   = {J. H. {LIENHARD V} and J. Hadeler},
+  Journal                  = {Chemical Engineering \& Technology},
+  Year                     = {1999},
+
+  Month                    = {nov.},
+  Number                   = {11},
+  Pages                    = {967-970},
+  Volume                   = {22},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.24}
+}
+
+@InProceedings{LIENHARDV2006,
+  author =       {J. H. {Lienhard V}},
+  title =        {{Heat Transfer by Impingement of Circular Free-Surface Liquid Jets}},
+  booktitle =    {Proceedings of the 18\textsuperscript{th} National \& 7\textsuperscript{th} ISHMT-ASME HMTC},
+  year =         {2006},
+  pages =        {1-16},
+  address =      {IIT Guwahati, India},
+  month =        {jan.},
+  organization = {Eighteenth National and Seventh ISHMT-ASME Heat and Mass Transfer Conference},
+  owner =        {Pablo Adamoglu},
+  timestamp =    {2015.11.25}
+}
+
+@Article{Lin1998,
+  Title                    = {{DROP AND SPRAY FORMATION FROM A LIQUID JET}},
+  Author                   = {S. P. Lin and R. D. Reitz},
+  Journal                  = {Annual Review of Fluid Mechanics},
+  Year                     = {1998},
+
+  Month                    = {jan.},
+  Pages                    = {85-105},
+  Volume                   = {30},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.10.30}
+}
+
+@Article{Lin2003,
+  Title                    = {Heat transfer characteristics of spray cooling in a closed loop},
+  Author                   = {L. Lin and R. Ponnappan},
+  Journal                  = {International Journal of Heat and Mass Transfer},
+  Year                     = {2003},
+
+  Month                    = {sep.},
+  Number                   = {20},
+  Pages                    = {3737-3746},
+  Volume                   = {46},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.20}
+}
+
+@Article{Lindeman2013,
+  Title                    = {Comparison of empirical correlations and a two-equation predictive model for heat transfer to arbitrary arrays of single-phase impinging jets},
+  Author                   = {B. A. Lindeman and T. A. Shedd},
+  Journal                  = {International Journal of Heat and Mass Transfer},
+  Year                     = {2013},
+
+  Month                    = {nov.},
+  Pages                    = {772-780},
+  Volume                   = {66},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.12.31}
+}
+
+@Article{Longo2008,
+  Title                    = {Refrigerant {R}134a condensation heat transfer and pressure drop inside a small brazed plate heat exchanger},
+  Author                   = {G. A. Longo},
+  Journal                  = {International Journal of Refrigeration},
+  Year                     = {2008},
+
+  Month                    = {aug.},
+  Number                   = {5},
+  Pages                    = {780-789},
+  Volume                   = {31},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.07.27}
+}
+
+@InProceedings{Maddox2015,
+  author =       {J. F. Maddox and R. W. Knight and S. H. Bhavnani},
+  title =        {{Local Thermal Measurements of a Confined Array of Impinging Liquid Jets for Power Electronics Cooling}},
+  booktitle =    {Proceedings},
+  year =         {2015},
+  pages =        {228-234},
+  address =      {San Jose, CA},
+  month =        {mar.},
+  organization = {Thirty-First Semiconductor Thermal Measurement, Modeling and Management Symposium (SEMI-THERM 31)},
+  publisher =    {IEEE},
+  owner =        {Pablo Adamoglu},
+  timestamp =    {2015.11.23}
+}
+
+@Article{Mahmoudi2012,
+  Title                    = {Two-phase cooling characteristics of a saturated free falling circular jet of {HFE7100} on a heated disk: {E}ffect of jet length},
+  Author                   = {S. R. Mahmoudi and K. Adamiak and G. S. P. Castle},
+  Journal                  = {International Journal of Heat and Mass Transfer},
+  Year                     = {2012},
+
+  Month                    = {oct.},
+  Number                   = {21-22},
+  Pages                    = {6181-6190},
+  Volume                   = {55},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.10.30}
+}
+
+@Book{Malisk2004,
+  Title                    = {Transfer{\^e}ncia de Calor e Mec{\^a}nica dos Fluidos Computacional},
+  Author                   = {C. R. Maliska},
+  Publisher                = {Livros T{\'e}cnicos e Cient{\'i}ficos Editora},
+  Year                     = {2004},
+
+  Address                  = {Rio de Janeiro},
+  Edition                  = {2},
+
+  Owner                    = {Administrador},
+  Pages                    = {453},
+  Timestamp                = {2008.06.17}
+}
+
+@Article{Mancin2013,
+  author =    {S. Mancin and C. Zilio and G. Righetti and L. Rossetto},
+  title =     {{Mini Vapor Cycle System for high density electronic cooling applications}},
+  journal =   {Int. J. Refrig.},
+  year =      {2013},
+  volume =    {36},
+  number =    {4},
+  pages =     {1191-1202},
+  owner =     {Pablo Adamoglu},
+  timestamp = {2015.11.19}
+}
+
+@Article{Marcinichen2013,
+  author =    {J. B. Marcinichen and J. A. Olivier and N. Lamaison and J. R. Thome},
+  title =     {{Advances in Electronics Cooling}},
+  journal =   {Heat Transfer Eng.},
+  year =      {2013},
+  volume =    {34},
+  number =    {5-6},
+  pages =     {434-446},
+  owner =     {Pablo Adamoglu},
+  timestamp = {2015.11.24}
+}
+
+@Article{MarcinichenThomeMichel2010,
+  author =  {J. B. Marcinichen and J. R. Thome and B. Michel},
+  title =   {{Cooling of microprocessors with micro-evaporation: A novel two-phase cooling cycle}},
+  journal = {Int. J. Refrig.},
+  year =    {2010},
+  volume =  {33},
+  number =  {7},
+  pages =   {1264-1276},
+  month =   {nov.}
+}
+
+@InProceedings{Mart'inez-Galv'an2009,
+  Title                    = {Heat transfer and film thickness measurements in a closed loop spray cooling system with {R}134a},
+  Author                   = {E. Mart{\'i}nez-Galv{\'a}n and J. C. Ramos and R. Ant{\'o}n and B. Palm and R. Khodabandeh},
+  Booktitle                = {Proceedings of the 15th THERMINIC},
+  Year                     = {2009},
+
+  Address                  = {Leuven},
+  Month                    = {out.},
+  Organization             = {Thermal Investigations of Integrated Circuits and Systems - 15th THERMINIC Workshop},
+  Publisher                = {EDA Publishing},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.19}
+}
+
+@Article{Mart'inez-Galv'an2011,
+  Title                    = {{F}ilm {T}hickness and {H}eat {T}ransfer {M}easurements in a {S}pray {C}ooling {S}ystem {W}ith {R}34a},
+  Author                   = {E. Mart{\'i}nez-Galv{\'a}n and J. C. Ramos and R. Ant{\'o}n and R. Khodabandeh},
+  Journal                  = {Journal of Electronic Packaging},
+  Year                     = {2011},
+
+  Month                    = {mar.},
+  Number                   = {1},
+  Pages                    = {011002-1-011002-11},
+  Volume                   = {133},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.19},
+  Url                      = {http://dx.doi.org/10.1115/1.4001857}
+}
+
+@Article{Martin1996,
+  Title                    = {A theoretical approach to predict the performance of chevron-type plate heat exchangers},
+  Author                   = {H. Martin},
+  Journal                  = {Chemical Engineering and Processing: Process Intensification},
+  Year                     = {1996},
+  Number                   = {4},
+  Pages                    = {301-310},
+  Volume                   = {35},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.07.27},
+  Url                      = {http://dx.doi.org/10.1016/0255-2701(95)04129-X}
+}
+
+@Article{McGlen2004,
+  Title                    = {Integrated thermal management techniques for high power electronic devices},
+  Author                   = {R. J. McGlen and R. Jachuck and S. Lin},
+  Journal                  = {Applied Thermal Engineering},
+  Year                     = {2004},
+
+  Month                    = {jun.},
+  Number                   = {8-9},
+  Pages                    = {1143-1156},
+  Volume                   = {24},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.30},
+  Url                      = {http://dx.doi.org/10.1016/j.applthermaleng.2003.12.029}
+}
+
+@Article{Meyer2006,
+  Title                    = {Single-phase and two-phase cooling with an array of rectangular jets},
+  Author                   = {M. T. Meyer and I. Mudawar and C. E. Boyack and C. A. Hale},
+  Journal                  = {International Journal of Heat and Mass Transfer},
+  Year                     = {2006},
+
+  Month                    = {jan.},
+  Number                   = {1-2},
+  Pages                    = {17-29},
+  Volume                   = {49},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.15}
+}
+
+@Article{Miner2006,
+  Title                    = {Limits of {H}eat {R}emoval in {M}icroelectronic {S}ystems},
+  Author                   = {A. Miner and U. Ghoshal},
+  Journal                  = {IEEE Transactions on Components and Packaging Technologies},
+  Year                     = {2006},
+
+  Month                    = {dec.},
+  Number                   = {4},
+  Pages                    = {743-749},
+  Volume                   = {29},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.30}
+}
+
+@InProceedings{Mongia2006,
+  author =       {R. Mongia and K. Masahiro and E. DiStefano and J. Barry and W. Chen and M. Izenson and F. Possamai and A. Zimmermann and M. Mochizuki},
+  title =        {{Small Scale Refrigeration System for Electronics Cooling Within a Notebook Computer}},
+  booktitle =    {Proceedings},
+  year =         {2006},
+  pages =        {751-758},
+  address =      {San Diego, CA},
+  month =        {may-jun.},
+  organization = {The Tenth Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronics Systems (ITHERM '06)},
+  publisher =    {IEEE},
+  owner =        {Pablo},
+  timestamp =    {2012.08.30}
+}
+
+@Article{Mudawar1996,
+  Title                    = {{Optimizing and Predicting CHF in Spray Cooling of a Square Surface}},
+  Author                   = {I. Mudawar and K. A. Estes},
+  Journal                  = {Journal of Heat Transfer},
+  Year                     = {1996},
+
+  Month                    = {ago.},
+  Number                   = {3},
+  Pages                    = {672-678},
+  Volume                   = {118},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.07.25},
+  Url                      = {http://dx.doi.org/10.1115/1.2822685}
+}
+
+@Article{Mudawar2001,
+  author =  {I. Mudawar},
+  title =   {{Assessment of High-Heat-Flux Thermal Management Schemes}},
+  journal = {IEEE Trans. Compon. Packag. Technol.},
+  year =    {2001},
+  volume =  {24},
+  number =  {2},
+  pages =   {122-141},
+  month =   {jun.}
+}
+
+@InProceedings{Mudawar2008,
+  author =       {I. Mudawar and D. Bharathan and K. Kelly and S. Narumanchi},
+  title =        {{Two-Phase Spray Cooling of Hybrid Vehicle Electronics}},
+  booktitle =    {Proceedings of the ITHERM 2008},
+  year =         {2008},
+  pages =        {1210-1221},
+  address =      {Orlando (FL)},
+  month =        {may.},
+  organization = {Eleventh Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems},
+  publisher =    {IEEE},
+  citeseerurl =  {http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4544399},
+  owner =        {Pablo},
+  timestamp =    {2012.08.21}
+}
+
+@Article{Muley1999,
+  Title                    = {{Experimental Study of Turbulent Flow Heat Transfer and Pressure Drop in a Plate Heat Exchanger With Chevron Plates}},
+  Author                   = {A. Muley and R. M. Manglik},
+  Journal                  = {Journal of Heat Transfer},
+  Year                     = {1999},
+
+  Month                    = {fev.},
+  Number                   = {1},
+  Pages                    = {110-117},
+  Volume                   = {121},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.07.30},
+  Url                      = {http://dx.doi.org/10.1115/1.2825923}
+}
+
+@Article{Muley1999a,
+  Title                    = {{Enhanced Heat Transfer Characteristics of Viscous Liquid Flows in a Chevron Plate Heat Exchanger}},
+  Author                   = {A. Muley and R. M. Manglik and H. M. Metwally},
+  Journal                  = {Journal of Heat Transfer},
+  Year                     = {1999},
+
+  Month                    = {nov.},
+  Number                   = {4},
+  Pages                    = {1011-1017},
+  Volume                   = {121},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.07.30},
+  Url                      = {http://dx.doi.org/10.1115/1.2826051}
+}
+
+@Article{Muszynski2015,
+  author =    {T. Muszynski and R. Andrzejczyk},
+  title =     {{Heat transfer characteristics of hybrid microjet - Microchannel cooling module}},
+  journal =   {Applied Thermal Engineering},
+  year =      {2015},
+  volume =    {93},
+  pages =     {1360-1366},
+  month =     {jan.},
+  owner =     {Pablo Adamoglu},
+  timestamp = {2015.11.20}
+}
+
+@InProceedings{Nakayama2009,
+  author =       {W. Nakayama and O. Suzuki and Y. Hara},
+  title =        {{T}hermal {M}anagement of {E}lectronic and {E}lectrical {D}evices in {A}utomobile {E}nvironment},
+  booktitle =    {Proceedings of VPPC'09},
+  year =         {2009},
+  pages =        {601-608},
+  address =      {Dearborn, MI},
+  month =        sep,
+  organization = {5th International IEEE Vehicle Power and Propulsion Conference (VPPC'09)},
+  publisher =    {IEEE},
+  owner =        {Pablo},
+  timestamp =    {2012.08.30}
+}
+
+@Article{Oh1998,
+  Title                    = {Liquid jet-array cooling modules for high heat fluxes},
+  Author                   = {Chang H. Oh and John H. {LIENHARD V} and Hesham F. Younis and Rudy S. Dahbura and Dirk Michels},
+  Journal                  = {AIChE Journal},
+  Year                     = {1998},
+
+  Month                    = {apr.},
+  Number                   = {4},
+  Pages                    = {769-779},
+  Volume                   = {44},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.20}
+}
+
+@Article{Oliphant1998,
+  Title                    = {An experimental comparison of liquid jet array and spray impingement cooling in the non-boiling regime},
+  Author                   = {K. Oliphant and B. W. Webb and M. Q. McQuay},
+  Journal                  = {Experimental Thermal and Fluid Science},
+  Year                     = {1998},
+
+  Month                    = {set.},
+  Number                   = {1},
+  Pages                    = {1-10},
+  Volume                   = {18},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.07.24},
+  Url                      = {http://dx.doi.org/10.1016/S0894-1777(98)10013-4}
+}
+
+@Article{Oliveira2015,
+  Title                    = {{Thermal Design of a Spray-Based Heat Sink Integrated with a Compact Vapor Compression Cooling System for Removal of High Heat Fluxes}},
+  Author                   = {P. A. Oliveira and J. R. {BARBOSA JR.}},
+  Journal                  = {Heat Transfer Engineering},
+  Year                     = {2015},
+  Number                   = {14-15},
+  Pages                    = {1-15},
+  Volume                   = {36},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.11.11}
+}
+
+@PhdThesis{Oliveira2016,
+  author = {P. A. de Oliveira},
+  title =  {{Development of a Two-Phase Jet Heat Sink Integrated with a Compact Refrigeration System for Electronics Cooling}},
+  school = {Federal University of Santa Catarina},
+  year =   {2016},
+  type =   {{Dr. Eng. Thesis}},
+  doi =    {10.13140/RG.2.1.2602.2807/1}
+}
+
+@Article{OliveiraBarbosaJr.2016,
+  author =  {P. A. de Oliveira and J. R. {Barbosa Jr.}},
+  title =   {{Novel Two-Phase Jet Impingement Heat Sink for Active Cooling of Electronic Devices}},
+  journal = {Appl. Therm. Eng.},
+  year =    {2016},
+  note =    {{} Submitted article}
+}
+
+@InProceedings{Ortega2006,
+  author =       {A. Ortega and J. R. Birle},
+  title =        {{The Evolution of Air Cooling in Electronic Systems and Observations About its Limits}},
+  booktitle =    {Proceedings},
+  year =         {2006},
+  address =      {Guwahati, India},
+  month =        {jan.},
+  organization = {Eighteenth National and Seventh ISHMT-ASME Heat and Mass Transfer Conference},
+  publisher =    {ASME},
+  note =         {{Paper K10}},
+  owner =        {Pablo},
+  timestamp =    {2012.08.30}
+}
+
+@Article{Ortiz1999,
+  Title                    = {{EXPERIMENTS ON STEADY-STATE HIGH HEAT FLUXES USING SPRAY COOLING}},
+  Author                   = {L. Ortiz and J. E. Gonzalez},
+  Journal                  = {Experimental Heat Transfer: A Journal of Thermal Energy},
+  Year                     = {1999},
+  Number                   = {3},
+  Pages                    = {215-233},
+  Volume                   = {12},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.20},
+  Url                      = {http://www.tandfonline.com/doi/abs/10.1080/089161599269690}
+}
+
+@Article{Oza1984,
+  author =  {R. D. Oza},
+  title =   {{On the Mechanism of Flashing Injection of Initially Subcooled Fuels}},
+  journal = {Journal of Fluids Engineering},
+  year =    {1984},
+  volume =  {106},
+  number =  {1},
+  pages =   {105-109},
+  month =   {mar.}
+}
+
+@Article{Pan1995,
+  Title                    = {{Heat Transfer Characteristics of Arrays of Free-Surface Liquid Jets}},
+  Author                   = {Y. Pan and B. W. Webb},
+  Journal                  = {Journal of Heat Transfer},
+  Year                     = {1995},
+
+  Month                    = {nov.},
+  Number                   = {4},
+  Pages                    = {878-883},
+  Volume                   = {117},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.12.31}
+}
+
+@Article{Parida2012,
+  author =    {P. R. Parida and S. V. Ekkad and K. Ngo},
+  title =     {{Impingement-based high performance cooling configurations for automotive power converters}},
+  journal =   {Int. J. Heat Mass Transfer},
+  year =      {2012},
+  volume =    {55},
+  number =    {4},
+  pages =     {834-847},
+  month =     {jan.},
+  owner =     {Pablo Adamoglu},
+  timestamp = {2015.11.24}
+}
+
+@PhdThesis{Park2008,
+  Title                    = {{Critical Heat Flux in Multi-Microchannel Copper Elements with Low Pressure Refrigerants}},
+  Author                   = {J. E. Park},
+  School                   = {École Polytechnique Fédérale de Lausanne},
+  Year                     = {2008},
+
+  Address                  = {Lausanne},
+  Month                    = {out.},
+  Type                     = {Doutorado em Energia},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.02}
+}
+
+@InProceedings{Park2011,
+  Title                    = {Total system power minimization of microprocessors using refrigerated systems for electronic cooling},
+  Author                   = {W. H. Park and R. McCall and C. K. {KEN YANG}},
+  Booktitle                = {Proceedings},
+  Year                     = {2011},
+
+  Address                  = {Taipei},
+  Month                    = {oct.},
+  Organization             = {6th International Microsystems, Packaging, Assembly and Circuits Technology Conference (IMPACT)},
+  Pages                    = {242-245},
+  Publisher                = {IEEE},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.11.19}
+}
+
+@Article{Park2013,
+  Title                    = {{Effects of Using Advanced Cooling Systems on the Overall Power Consumption of Processors}},
+  Author                   = {W. H. Park and C.-K. K. Yang},
+  Journal                  = {IEEE Transactions on Very Large Scale Integration (VLSI) Systems},
+  Year                     = {2013},
+
+  Month                    = {sep.},
+  Number                   = {9},
+  Pages                    = {1644-1654},
+  Volume                   = {21},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.11.19}
+}
+
+@Article{Pautsch2005,
+  Title                    = {Spray impingement cooling with single- and multiple-nozzle arrays. {P}art {I}: {H}eat transfer data using {FC}-72},
+  Author                   = {A. G. Pautsch and T. A. Shedd},
+  Journal                  = {International Journal of Heat and Mass Transfer},
+  Year                     = {2005},
+
+  Month                    = {jul.},
+  Number                   = {15},
+  Pages                    = {3167-3175},
+  Volume                   = {48},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.07.24},
+  Url                      = {http://dx.doi.org/10.1016/j.ijheatmasstransfer.2005.02.012}
+}
+
+@Article{Pautsch2005a,
+  Title                    = {Spray impingement cooling with single- and multiple-nozzle arrays. {P}art {II}: {V}isualization and empirical models},
+  Author                   = {A. G. Pautsch and T. A. Shedd},
+  Journal                  = {International Journal of Heat and Mass Transfer},
+  Year                     = {2005},
+
+  Month                    = {jul.},
+  Number                   = {15},
+  Pages                    = {3176-3184},
+  Volume                   = {48},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.07.24},
+  Url                      = {http://dx.doi.org/10.1016/j.ijheatmasstransfer.2005.02.013}
+}
+
+@Article{Phelan2002,
+  author =    {P. E. Phelan and V. A. Chiriac and T.-Y. T. Lee},
+  title =     {Current and {F}uture {M}iniature {R}efrigeration {C}ooling {T}echnologies for {H}igh {P}ower {M}icroelectronics},
+  journal =   {IEEE Trans. Compon. Packag. Technol.},
+  year =      {2002},
+  volume =    {25},
+  number =    {3},
+  pages =     {356-365},
+  month =     {sep.},
+  owner =     {Administrador},
+  timestamp = {2008.06.17}
+}
+
+@Article{Polanco2010,
+  Title                    = {{General review of flashing jet studies}},
+  Author                   = {G. Polanco and A. E. Hold\o and G. Munday},
+  Journal                  = {Journal of Harzadous Materials},
+  Year                     = {2010},
+
+  Month                    = {jan.},
+  Number                   = {1-3},
+  Pages                    = {2-18},
+  Volume                   = {173},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.11.02}
+}
+
+@Book{Poulikakos1994,
+  Title                    = {Conduction Heat Transfer},
+  Author                   = {D. Poulikakos},
+  Publisher                = {Prentice Hall},
+  Year                     = {1994},
+
+  Address                  = {New Jersey},
+
+  Owner                    = {Administrador},
+  Pages                    = {353},
+  Timestamp                = {2008.06.17}
+}
+
+@InCollection{Prasher2009,
+  Title                    = {Thermal {I}nterface {M}aterials},
+  Author                   = {R. Prasher and C.-P. Chiu},
+  Booktitle                = {Materials for Advanced Packaging},
+  Publisher                = {Springer Science+Business Media},
+  Year                     = {2009},
+
+  Address                  = {New York},
+  Chapter                  = {13},
+  Editor                   = {D. Lu and C. P. Wong},
+  Pages                    = {437-458},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.07.19}
+}
+
+@Book{Press1989,
+  Title                    = {Numerical recipes: the art of scientific computing (FORTRAN Version)},
+  Author                   = {W. H. Press and B. P. Flannery and S. A. Teukolsky and W. T. Vetterling},
+  Publisher                = {Cambridge University Press},
+  Year                     = {1989},
+
+  Address                  = {Cambridge},
+
+  Owner                    = {Administrador},
+  Pages                    = {722},
+  Timestamp                = {2008.07.01}
+}
+
+@Article{Qiu2015,
+  Title                    = {Recent developments of jet impingement nucleate boiling},
+  Author                   = {L. Qiu and S. Dubey and F. H. Choo and F. Duan},
+  Journal                  = {International Journal of Heat and Mass Transfer},
+  Year                     = {2015},
+
+  Month                    = {oct.},
+  Pages                    = {42-58},
+  Volume                   = {89},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.12.29}
+}
+
+@Article{Reitz1990,
+  author =  {R. D. Reitz},
+  title =   {{A Photographic Study of Flash-Boiling Atomization}},
+  journal = {Aerosol Science and Technology},
+  year =    {1990},
+  volume =  {12},
+  number =  {3},
+  pages =   {561-569}
+}
+
+@Article{Ribeiro2010,
+  author =    {G. B. Ribeiro and J. R. {BARBOSA JR.} and A. T. Prata},
+  title =     {{Mini-Channel Evaporator/Heat Pipe Assembly for a Chip Cooling Vapor Compression Refrigeration System}},
+  journal =   {Int. J. Refrig.},
+  year =      {2010},
+  volume =    {33},
+  number =    {7},
+  pages =     {1402-1412},
+  owner =     {Pablo Adamoglu},
+  timestamp = {2015.11.30}
+}
+
+@InProceedings{Ribeiro2012,
+  author =       {G. B. Ribeiro},
+  title =        {{Development of a Cooling Unit for High Ambient Temperatures Based on Microcompressor Technology}},
+  booktitle =    {Proceedings},
+  year =         {2012},
+  address =      {West Lafayette, IN},
+  month =        {jul.},
+  organization = {International Refrigeration and Air Conditioning Conference at Purdue},
+  note =         {{Paper No. 2236}},
+  owner =        {Pablo Adamoglu},
+  timestamp =    {2015.11.19}
+}
+
+@Article{RiofrioCaneyGruss2016,
+  author =  {M. C. Riofr{\'i}o and N. Caney and J.-A. Gruss},
+  title =   {State of the art of efficient pumped two-phase flow cooling technologies},
+  journal = {Appl. Therm. Eng.},
+  year =    {2016},
+  volume =  {104},
+  pages =   {333-343},
+  month =   {jul.}
+}
+
+@Article{Royne2006,
+  Title                    = {Effect of nozzle geometry on pressure drop and heat transfer in submerged jet arrays},
+  Author                   = {A. Royne and C. J. Dey},
+  Journal                  = {International Journal of Heat and Mass Transfer},
+  Year                     = {2006},
+
+  Month                    = {jan.},
+  Note                     = {Technical Note},
+  Number                   = {3},
+  Pages                    = {800-804},
+  Volume                   = {49},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.12.31}
+}
+
+@Article{Rybicki2006,
+  Title                    = {Single-phase and two-phase cooling characteristics of upward-facing and downward-facing sprays},
+  Author                   = {J. R. Rybicki and I. Mudawar},
+  Journal                  = {International Journal of Heat and Mass Transfer},
+  Year                     = {2006},
+
+  Month                    = {jan.},
+  Number                   = {1-2},
+  Pages                    = {5-16},
+  Volume                   = {49},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.07.17},
+  Url                      = {http://dx.doi.org/10.1016/j.ijheatmasstransfer.2005.07.040}
+}
+
+@Article{San2014,
+  Title                    = {Effects of jet-to-jet spacing and jet height on heat transfer characteristics of an impinging jet array},
+  Author                   = {J.-Y. San and J.-J. Chen},
+  Journal                  = {International Journal of Heat and Mass Transfer},
+  Year                     = {2014},
+
+  Month                    = {apr.},
+  Pages                    = {8-17},
+  Volume                   = {71},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.12.31}
+}
+
+@InProceedings{Selvam2005,
+  Title                    = {Computational Modeling of Spray Cooling: Current Status and Future Challenges},
+  Author                   = {R. Panneer Selvam and Lanchao Lin and Rengasamy Ponnappan},
+  Booktitle                = {AIP Conference Proceedings},
+  Year                     = {2005},
+
+  Address                  = {Albuquerque, New Mexico (USA)},
+  Editor                   = {M. S. El-Genk},
+  Month                    = {fev.},
+  Organization             = {Space Technology and Applications International Forum - STAIF 2005},
+  Pages                    = {55-63},
+  Publisher                = {American Institute of Physics (AIP)},
+  Volume                   = {746},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.22},
+  Url                      = {http://dx.doi.org/10.1063/1.1867118}
+}
+
+@InProceedings{Selvam2007,
+  Title                    = {Spray Cooling Modeling: Liquid Film Thickness Effect on Heat Transfer},
+  Author                   = {R. Panneer Selvam and Matthew Hamilton and Eric A. Silk},
+  Booktitle                = {AIP Conference Proceedings},
+  Year                     = {2007},
+
+  Address                  = {Albuquerque, New Mexico (USA)},
+  Editor                   = {M. S. El-Genk},
+  Month                    = {fev.},
+  Organization             = {Space Technology and Applications International Forum - STAIF 2007},
+  Pages                    = {110-117},
+  Publisher                = {American Institute of Physics (AIP)},
+  Volume                   = {880},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.22},
+  Url                      = {http://dx.doi.org/10.1063/1.2437447}
+}
+
+@Book{Shah2003,
+  Title                    = {Fundamentals of Heat Exchanger Design},
+  Author                   = {R. K. Shah and D. P. Sekuli{\'c}},
+  Publisher                = {John Wiley \& Sons},
+  Year                     = {2003},
+
+  Address                  = {New Jersey},
+
+  Owner                    = {Administrador},
+  Pages                    = {941},
+  Timestamp                = {2008.06.17}
+}
+
+@Article{Shedd2007,
+  author =  {Shedd, Timothy A},
+  title =   {{Next Generation Spray Cooling: High Heat Flux Management in Compact Spaces}},
+  journal = {Heat Transfer Eng.},
+  year =    {2007},
+  volume =  {28},
+  number =  {2},
+  pages =   {87-92},
+  doi =     {10.1080/01457630601023245}
+}
+
+@Article{SmakulskiPietrowicz2016,
+  author =  {P. Smakulski and S. Pietrowicz},
+  title =   {A review of the capabilities of high heat flux removal by porous materials, microchannels and spray cooling techniques},
+  journal = {Appl. Therm. Eng.},
+  year =    {2016},
+  volume =  {104},
+  pages =   {636-646},
+  month =   {jul.}
+}
+
+@TechReport{Starke2005,
+  Title                    = {POTENTIAL REFRIGERANTS FOR POWER ELECTRONICS COOLING},
+  Author                   = {M. R. Starke and C. W. Ayers and J. S. Hsu and J. C. Conklin},
+  Institution              = {Oak Ridge National Laboratory},
+  Year                     = {2005},
+
+  Address                  = {Oak Ridge, Tennessee},
+  Month                    = {oct.},
+  Note                     = {ORNL/TM-2005/219},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.12.01}
+}
+
+@Article{Sung2008,
+  Title                    = {Single-phase and two-phase heat transfer characteristics of low temperature hybrid micro-channel/micro-jet impingement cooling module},
+  Author                   = {M. K. Sung and I. Mudawar},
+  Journal                  = {International Journal of Heat and Mass Transfer},
+  Year                     = {2008},
+
+  Month                    = {jul.},
+  Number                   = {15-16},
+  Pages                    = {3882-3895},
+  Volume                   = {51},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.14}
+}
+
+@Article{Sung2008a,
+  Title                    = {Single-phase and two-phase cooling using hybrid micro-channel/slot-jet module},
+  Author                   = {M. K. Sung and I. Mudawar},
+  Journal                  = {International Journal of Heat and Mass Transfer},
+  Year                     = {2008},
+
+  Month                    = {jul.},
+  Number                   = {15-16},
+  Pages                    = {3825-3839},
+  Volume                   = {51},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.14}
+}
+
+@Article{Sung2009,
+  Title                    = {Effects of jet pattern on two-phase performance of hybrid micro-channel/micro-circular-jet-impingement thermal management scheme},
+  Author                   = {M. K. Sung and I. Mudawar},
+  Journal                  = {International Journal of Heat and Mass Transfer},
+  Year                     = {2009},
+
+  Month                    = {jun.},
+  Number                   = {13-14},
+  Pages                    = {3364-3372},
+  Volume                   = {52},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.14}
+}
+
+@Article{Sung2009a,
+  author =    {M. K. Sung and I. Mudawar},
+  title =     {{CHF} determination for high-heat flux phase change cooling system incorporating both micro-channel flow and jet impingement},
+  journal =   {Int. J. Heat Mass Transfer},
+  year =      {2009},
+  volume =    {52},
+  number =    {3-4},
+  pages =     {610-619},
+  month =     {jan.},
+  owner =     {Pablo},
+  timestamp = {2012.08.14}
+}
+
+@Article{Sung2014,
+  Title                    = {{Development of a novel meso-scale vapor compression refrigeration system (mVCRS)}},
+  Author                   = {T. Sung and D. Lee and H. S. Kim and J. Kim},
+  Journal                  = {Applied Thermal Engineering},
+  Year                     = {2014},
+
+  Month                    = {may.},
+  Number                   = {1-2},
+  Pages                    = {453-463},
+  Volume                   = {66},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.11.19}
+}
+
+@InProceedings{Takemori2012,
+  author =       {C. K. Takemori and F. Fagotti},
+  title =        {Numerical Evaluation of Performace Curves of a High Frequency Microcompressor},
+  booktitle =    {Proceedings},
+  year =         {2012},
+  address =      {West Lafayette, IN},
+  month =        {jul.},
+  organization = {International Compressor Engineering Conference at Purdue},
+  note =         {{Paper No. 1461}},
+  owner =        {Pablo},
+  timestamp =    {2012.08.30}
+}
+
+@Article{Tan2013,
+  author =    {Y. B. Tan and J. L. Xie and F. Duan and T. N. Wong and K. C. Toh and K. F. Choo and P. K. Chan and Y. S. Chua},
+  title =     {Multi-nozzle spray cooling for high heat flux applications in a closed loop system},
+  journal =   {Appl. Therm. Eng.},
+  year =      {2013},
+  volume =    {54},
+  number =    {2},
+  pages =     {372-379},
+  month =     {may.},
+  owner =     {Pablo Adamoglu},
+  timestamp = {2016.01.02}
+}
+
+@Article{Tao2011,
+  Title                    = {Experimental characterization of heat transfer in non-boiling spray cooling with two nozzles},
+  Author                   = {Y. Tao and X. Huai and L. Wang and Z. Guo},
+  Journal                  = {Applied Thermal Engineering},
+  Year                     = {2011},
+
+  Month                    = {jul.},
+  Number                   = {10},
+  Pages                    = {1790-1797},
+  Volume                   = {31},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.17},
+  Url                      = {http://dx.doi.org/10.1016/j.applthermaleng.2011.02.025}
+}
+
+@Article{Trutassanawin2006,
+  author =    {S. Trutassanawin and E. Groll and S. V. Garimella and L. Cremaschi},
+  title =     {{E}xperimental {I}nvestigation of a {M}iniature-{S}cale {R}efrigeration {S}ystem for {E}lectronics {C}ooling},
+  journal =   {IEEE Trans. Compon. Packag. Technol.},
+  year =      {2006},
+  volume =    {29},
+  number =    {3},
+  pages =     {678-687},
+  month =     {sep.},
+  owner =     {Pablo},
+  timestamp = {2012.08.30}
+}
+
+@Article{Tuerkakar2015,
+  Title                    = {Entropy generation analysis and dimensional optimization of an evaporator for use in a microscale refrigeration cycle},
+  Author                   = {G. T{\"u}rkakar and T. Okutucu-{\"O}zyurt},
+  Journal                  = {International Journal of Refrigeration},
+  Year                     = {2015},
+
+  Month                    = {aug.},
+  Pages                    = {140-153},
+  Volume                   = {56},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.11.19}
+}
+
+@Article{Tullius2011,
+  author =    {J. F. Tullius and R. Vajtai and Y. Bayazitoglu},
+  title =     {{A Review of Cooling in Microchannels}},
+  journal =   {Heat Transfer Eng.},
+  year =      {2011},
+  volume =    {32},
+  number =    {7-8},
+  pages =     {527-541},
+  owner =     {Pablo Adamoglu},
+  timestamp = {2015.11.30}
+}
+
+@Article{ULSONDESOUZA2012,
+  Title                    = {{Spray cooling of plain and copper-foam enhanced surfaces}},
+  Author                   = {A. G. {ULSON DE SOUZA} and J. R. {BARBOSA JR.}},
+  Journal                  = {Experimental Thermal and Fluid Science},
+  Year                     = {2012},
+
+  Month                    = {may.},
+  Pages                    = {198-206},
+  Volume                   = {39},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.11.11}
+}
+
+@Article{ULSONDESOUZA2013,
+  Title                    = {{Experimental evaluation of spray cooling of R-134a on plain and enhanced surfaces}},
+  Author                   = {A. G. {ULSON DE SOUZA} and J. R. {BARBOSA JR.}},
+  Journal                  = {International Journal of Refrigeration},
+  Year                     = {2013},
+
+  Month                    = {mar.},
+  Number                   = {2},
+  Pages                    = {527-533},
+  Volume                   = {36},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.11.11}
+}
+
+@InProceedings{Unger2002,
+  Title                    = {A High Performace Linear Compressor for {CPU} Cooling},
+  Author                   = {R. Unger and S. Novotny},
+  Booktitle                = {Proceedings},
+  Year                     = {2002},
+
+  Address                  = {West Lafayette, IN},
+  Note                     = {Paper No. C23-3},
+  Organization             = {International Compressor Engineering Conference at Purdue},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.30}
+}
+
+@Book{Versteeg1995,
+  Title                    = {An Introduction to Computational Fluid Dynamics: The Finite Volume Method},
+  Author                   = {H. K. Versteeg and W. Malalasekera},
+  Publisher                = {Longman Scientific \& Technical},
+  Year                     = {1995},
+
+  Owner                    = {Administrador},
+  Pages                    = {257},
+  Timestamp                = {2008.06.17}
+}
+
+@Article{Visaria2008,
+  Title                    = {Theoretical and experimental study of the effects of spray inclination on two-phase spray cooling and critical heat flux},
+  Author                   = {M. Visaria and I. Mudawar},
+  Journal                  = {International Journal of Heat and Mass Transfer},
+  Year                     = {2008},
+
+  Month                    = {mai.},
+  Number                   = {9-10},
+  Pages                    = {2398-2410},
+  Volume                   = {51},
+
+  Doi                      = {10.1016/j.ijheatmasstransfer.2007.08.010},
+  Owner                    = {Administrator},
+  Timestamp                = {2010.08.19},
+  Url                      = {http://dx.doi.org/10.1016/j.ijheatmasstransfer.2007.08.010}
+}
+
+@Article{Visaria2008a,
+  Title                    = {Effects of high subcooling on two-phase spray cooling and critical heat flux},
+  Author                   = {M. Visaria and I. Mudawar},
+  Journal                  = {International Journal of Heat and Mass Transfer},
+  Year                     = {2008},
+
+  Month                    = {out.},
+  Number                   = {21-22},
+  Pages                    = {5269-5278},
+  Volume                   = {51},
+
+  Owner                    = {Administrator},
+  Timestamp                = {2010.08.19},
+  Url                      = {http://dx.doi.org/10.1016/j.ijheatmasstransfer.2008.02.045}
+}
+
+@Article{Visaria2009,
+  Title                    = {{Application of Two-Phase Spray Cooling for Thermal Management of Electronic Devices}},
+  Author                   = {M. Visaria and I. Mudawar},
+  Journal                  = {IEEE Transactions on Components and Packaging Technologies},
+  Year                     = {2009},
+
+  Month                    = {dez.},
+  Number                   = {4},
+  Pages                    = {784-793},
+  Volume                   = {32},
+
+  Doi                      = {10.1109/TCAPT.2008.2010405},
+  Owner                    = {Administrator},
+  Timestamp                = {2010.08.19},
+  Url                      = {http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4801563}
+}
+
+@InProceedings{Wang2009,
+  Title                    = {Advanced {E}lectronic {C}ooling {T}echnologies},
+  Author                   = {Y. Wang and Q. Luo and X. Chen},
+  Booktitle                = {Proceedings of the PrimeAsia 2009},
+  Year                     = {2009},
+
+  Address                  = {Shanghai},
+  Month                    = {jan.},
+  Organization             = {Asia Pacific Conference on Postgraduate Research in Microelectronics \& Electronics (PrimeAsia)},
+  Pages                    = {149-152},
+  Publisher                = {IEEE},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.30}
+}
+
+@Article{Wang2010,
+  Title                    = {Experimental study on the effects of spray inclination on water spray cooling performance in non-boiling regime},
+  Author                   = {Yaqing Wang and Minghou Liu and Dong Liu and Kan Xu and Yiliang Chen},
+  Journal                  = {Experimental Thermal and Fluid Science},
+  Year                     = {2010},
+
+  Month                    = {out.},
+  Number                   = {7},
+  Pages                    = {933-942},
+  Volume                   = {34},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.17},
+  Url                      = {http://dx.doi.org/10.1016/j.expthermflusci.2010.02.010}
+}
+
+@InProceedings{Wang2010a,
+  Title                    = {Characteristic of a Miniature Linear Compressor},
+  Author                   = {W. Wang and X. Tai},
+  Booktitle                = {Proceedings},
+  Year                     = {2010},
+
+  Address                  = {West Lafayette, IN},
+  Month                    = {jul.},
+  Note                     = {Paper No. 1288},
+  Organization             = {International Compressor Engineering Conference at Purdue},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.30}
+}
+
+@Article{Wang2011,
+  Title                    = {{Heat Flux Correlation for Spray Cooling in the Nonboiling Regime}},
+  Author                   = {Y. Wang and M. Liu and D. Liu and K. Xu},
+  Journal                  = {Heat Transfer Engineering},
+  Year                     = {2011},
+  Number                   = {11-12},
+  Pages                    = {1075-1081},
+  Volume                   = {32},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.02},
+  Url                      = {http://www.tandfonline.com/doi/abs/10.1080/01457632.2011.556505}
+}
+
+@InProceedings{Wang2011a,
+  Title                    = {{Submerged Liquid Jet Impingement Cooling}},
+  Author                   = {Z. Y. Wang and T. N. Wong and F. Duan},
+  Booktitle                = {Proccedings of the 13\textsuperscript{th} EPTC},
+  Year                     = {2011},
+
+  Address                  = {Singapore},
+  Month                    = {dec.},
+  Organization             = {13th Electronics Packaging Technology Conference (EPTC)},
+  Pages                    = {660-666},
+  Publisher                = {IEEE},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.12.29}
+}
+
+@Article{Whelan2009,
+  author =    {B. P. Whelan and A. J. Robinson},
+  title =     {Nozzle geometry effects in liquid jet array impingement},
+  journal =   {Appl. Therm. Eng.},
+  year =      {2009},
+  volume =    {29},
+  number =    {11-12},
+  pages =     {2211-2221},
+  month =     {aug.},
+  owner =     {Pablo Adamoglu},
+  timestamp = {2015.12.31}
+}
+
+@Article{Whelan2012,
+  author =    {B. P. Whelan and R. Kempers and A. J. Robinson},
+  title =     {{A liquid-based system for CPU cooling implementing a jet array impingement waterblock and a tube array remote heat exchanger}},
+  journal =   {Appl. Therm. Eng.},
+  year =      {2012},
+  volume =    {39},
+  pages =     {86-94},
+  month =     {jun.},
+  owner =     {Pablo Adamoglu},
+  timestamp = {2015.11.23}
+}
+
+@Article{Wojtan2005,
+  Title                    = {{Investigation of flow boiling in horizontal tubes: Part I -- A new diabatic two-phase flow pattern map}},
+  Author                   = {L. Wojtan and T. Ursenbacher and J. R. Thome},
+  Journal                  = {International Journal of Heat and Mass Transfer},
+  Year                     = {2005},
+
+  Month                    = {jul.},
+  Number                   = {14},
+  Pages                    = {2955-2969},
+  Volume                   = {48},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2016.01.11}
+}
+
+@Article{Wojtan2005a,
+  Title                    = {{Investigation of flow boiling in horizontal tubes: Part II -- Development of a new heat transfer model for stratified-wavy, dryout and mist flow regimes}},
+  Author                   = {L. Wojtan and T. Ursenbacher and J. R. Thome},
+  Journal                  = {International Journal of Heat and Mass Transfer},
+  Year                     = {2005},
+
+  Month                    = {jul.},
+  Number                   = {14},
+  Pages                    = {2970-2985},
+  Volume                   = {48},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2016.01.11}
+}
+
+@Article{Womac1993,
+  Title                    = {{Correlating Equations for Impingement Cooling of Small Heat Sources With Single Circular Liquid Jets}},
+  Author                   = {D. J. Womac and S. Ramadhyani and F. P. Incropera},
+  Journal                  = {Journal of Heat Transfer},
+  Year                     = {1993},
+
+  Month                    = {feb.},
+  Number                   = {1},
+  Pages                    = {106-115},
+  Volume                   = {115},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.12.31}
+}
+
+@Article{Wu2011,
+  Title                    = {{Design and experimental study of a miniature vapor compression refrigeration system for electronics cooling}},
+  Author                   = {Z. Wu and R. Du},
+  Journal                  = {Applied Thermal Engineering},
+  Year                     = {2011},
+
+  Month                    = {feb.},
+  Number                   = {2-3},
+  Pages                    = {385-390},
+  Volume                   = {31},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.11.19}
+}
+
+@Article{Xie2014,
+  author =    {J. L. Xie and Y. B. Tan and T. N. Wong and F. Duan and K. C. Toh and K. F. Choo and P. K. Chan and Y. S. Chua},
+  title =     {Multi-nozzle array spray cooling for large area high power devices in a closed loop system},
+  journal =   {Int. J. Heat Mass Transfer},
+  year =      {2014},
+  volume =    {78},
+  pages =     {1177-1186},
+  month =     {nov.},
+  owner =     {Pablo Adamoglu},
+  timestamp = {2015.11.25}
+}
+
+@Article{Xu2014,
+  author =    {H. Xu and C. Si and S. Shao and Ch. Tian},
+  title =     {{Experimental investigation on heat transfer of spray cooling with isobutane (R600a)}},
+  journal =   {Int. J. Therm. Sci.},
+  year =      {2014},
+  volume =    {86},
+  pages =     {21-27},
+  month =     {dec.},
+  owner =     {Pablo Adamoglu},
+  timestamp = {2016.01.03}
+}
+
+@Article{Yan2010,
+  author =    {Z. B. Yan and K. C. Toh and F. Duan and T. N. Wong and K. F. Choo and P. K. Chan and Y. S. Chua},
+  title =     {Experimental study of impingement spray cooling for high power devices},
+  journal =   {Appl. Therm. Eng.},
+  year =      {2010},
+  volume =    {30},
+  number =    {10},
+  pages =     {1225-1230},
+  month =     {jul.},
+  owner =     {Administrator},
+  timestamp = {2010.08.23}
+}
+
+@InProceedings{Yan2010a,
+  Title                    = {{Large Area Spray Cooling by Inclined Nozzles for Electronic Board}},
+  Author                   = {Z. B. Yan and F. Duan and T. N. Wong},
+  Booktitle                = {Proceedings of the EPTC 2010},
+  Year                     = {2010},
+  Month                    = {dec.},
+  Organization             = {12th Electronics Packaging Technology Conference (EPTC 2010)},
+  Pages                    = {76-78},
+  Publisher                = {IEEE},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.01}
+}
+
+@InProceedings{Yan2010b,
+  Title                    = {{Heat Transfer Characteristics of Impingement Spray Cooling System for Electronic Test Cards}},
+  Author                   = {Z. B. Yan and K. C. Toh and F. Duan and T. N. Wong and K. F. Choo},
+  Booktitle                = {Proceedings of the ICCAE 2010},
+  Year                     = {2010},
+  Month                    = {feb.},
+  Organization             = {The 2nd International Conference on Computer and Automation Engineering (ICCAE)},
+  Pages                    = {326-329},
+  Publisher                = {IEEE},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.01}
+}
+
+@Article{Yang1996,
+  Title                    = {Nucleate {B}oiling {H}eat {T}ransfer in {S}pray {C}ooling},
+  Author                   = {J. Yang and L. C. Chow and M. R. Pais},
+  Journal                  = {Journal of Heat Transfer},
+  Year                     = {1996},
+
+  Month                    = {ago.},
+  Number                   = {3},
+  Pages                    = {668-671},
+  Volume                   = {118},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.19}
+}
+
+@Article{Yang1996a,
+  Title                    = {An {A}nalytical {M}ethod to {D}etermine the {L}iquid {F}ilm {T}hickness {P}roduced by {G}as {A}tomized {S}prays},
+  Author                   = {J. Yang and L. C. Chow and M. R. Pais},
+  Journal                  = {Journal of Heat Transfer},
+  Year                     = {1996},
+
+  Month                    = {fev.},
+  Note                     = {Technical brief},
+  Number                   = {1},
+  Pages                    = {255-258},
+  Volume                   = {118},
+
+  Owner                    = {Pablo},
+  Timestamp                = {2012.08.19}
+}
+
+@Article{Yuan2015,
+  Title                    = {Development and experimental study of the characteristics of a prototype miniature vapor compression refrigerator},
+  Author                   = {W. Yuan and B. Yang and Y. Yang and K. Ren and J. Xu and Y. Liao},
+  Journal                  = {Applied Energy},
+  Year                     = {2015},
+
+  Month                    = {apr.},
+  Pages                    = {47-57},
+  Volume                   = {143},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.11.19}
+}
+
+@Article{Zenzie2000,
+  Title                    = {{Evaluation of Cooling Methods for Laser Dermatology}},
+  Author                   = {H. H. Zenzie and G. B. Altshuler and M. Z. Smirnov and R. R. Anderson},
+  Journal                  = {Lasers in Surgery and Medicine},
+  Year                     = {2000},
+  Number                   = {2},
+  Pages                    = {130-144},
+  Volume                   = {26},
+
+  Doi                      = {10.1002/(SICI)1096-9101(2000)26:2<130::AID-LSM4>3.0.CO;2-J},
+  Pmid                     = {10685086},
+  Url                      = {http://dx.doi.org/10.1002/(SICI)1096-9101(2000)26:2$<$130::AID-LSM4$>$3.0.CO;2-J}
+}
+
+@Article{Zhao2010,
+  Title                    = {Study on heat transfer performance of spray cooling: model and analysis},
+  Author                   = {R. Zhao and W.-l. Cheng and Q.-n. Liu and H.-l. Fan},
+  Journal                  = {Heat and Mass Transfer},
+  Year                     = {2010},
+  Number                   = {8-9},
+  Pages                    = {821-829},
+  Volume                   = {46},
+
+  Affiliation              = {Department of Thermal Science and Energy Engineering, University of Science and Technology of China, Hefei, 230027 Anhui Province Peopleâ€™s Republic of China},
+  ISSN                     = {0947-7411},
+  Issue                    = {8},
+  Keyword                  = {Engineering},
+  Owner                    = {Pablo},
+  Publisher                = {Springer Berlin / Heidelberg},
+  Timestamp                = {2012.08.22},
+  Url                      = {http://dx.doi.org/10.1007/s00231-010-0632-4}
+}
+
+@InProceedings{Zhou2014,
+  Title                    = {{Visualization of Bubble Behavior for Jet Impingement Cooling with Phase Change}},
+  Author                   = {F. Zhou and S. N. Joshi and E. M. Dede},
+  Booktitle                = {Proceedings of the ITherm 2014},
+  Year                     = {2014},
+
+  Address                  = {Orlando, FL},
+  Month                    = {may.},
+  Organization             = {The Fourteenth IEEE Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems (ITherm)},
+  Publisher                = {IEEE},
+
+  Owner                    = {Pablo Adamoglu},
+  Timestamp                = {2015.11.22}
+}
+
+@Comment{jabref-meta: databaseType:biblatex;}

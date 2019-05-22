@@ -1,0 +1,31 @@
+\nomenclatureentry{DWEGWEG@[{WEG}]\begingroup Water-Ethylene Glycol\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{DRTDRTD@[{RTD}]\begingroup Resistance Temperature Detector\nomeqref {0}|nompageref}{4}
+\nomenclatureentry{DPOMPOM@[{POM}]\begingroup Polyoxymethylene\nomeqref {0}|nompageref}{5}
+\nomenclatureentry{AQdot*c$\dot{Q}^{*}_{c}$@[{$\dot{Q}^{*}_{c}$}]\begingroup Corrected cooling capacity [W]\nomeqref {0}|nompageref}{7}
+\nomenclatureentry{AH$H$@[{$H$}]\begingroup Jet impingement length [mm]\nomeqref {0}|nompageref}{7}
+\nomenclatureentry{BDeltaTsh$\Delta T_{sh}$@[{$\Delta T_{sh}$}]\begingroup Refrigerant superheating degree [\textcelsius]\nomeqref {0}|nompageref}{7}
+\nomenclatureentry{DCHFCHF@[{CHF}]\begingroup Critical Heat Flux\nomeqref {0}|nompageref}{8}
+\nomenclatureentry{Balpha$\alpha$@[{$\alpha$}]\begingroup Compressor piston displacement (stroke) [\%]\nomeqref {0}|nompageref}{8}
+\nomenclatureentry{AQdotcond$\dot{Q}_{cond}$@[{$\dot{Q}_{cond}$}]\begingroup Condenser heat transfer rate [W]\nomeqref {2}|nompageref}{9}
+\nomenclatureentry{AQdotsh$\dot{Q}_{sh}$@[{$\dot{Q}_{sh}$}]\begingroup Superheating heat transfer rate [W]\nomeqref {2}|nompageref}{9}
+\nomenclatureentry{Amdotr$\dot{m}_{r}$@[{$\dot{m}_{r}$}]\begingroup Refrigerant mass flow rate [kg h$^{\varA{-1}}$]\nomeqref {2}|nompageref}{9}
+\nomenclatureentry{Ah$h$@[{$h$}]\begingroup Specific enthalpy [J kg$^{\varA{-1}}$]\nomeqref {2}|nompageref}{9}
+\nomenclatureentry{AQdotc$\dot{Q}_{c}$@[{$\dot{Q}_{c}$}]\begingroup Cooling capacity [W]\nomeqref {3}|nompageref}{9}
+\nomenclatureentry{AP$P$@[{$P$}]\begingroup Pressure [bar]\nomeqref {3}|nompageref}{9}
+\nomenclatureentry{Cevap$evap$@[{$evap$}]\begingroup Evaporating\nomeqref {3}|nompageref}{9}
+\nomenclatureentry{Ccond$cond$@[{$cond$}]\begingroup Condensing\nomeqref {3}|nompageref}{9}
+\nomenclatureentry{AWind$\dot{W}_{ind}$@[{$\dot{W}_{ind}$}]\begingroup Indicated power [W]\nomeqref {4}|nompageref}{9}
+\nomenclatureentry{AWdotcomp$\dot{W}_{comp}$@[{$\dot{W}_{comp}$}]\begingroup Electrical power consumption of the compressor [W]\nomeqref {4}|nompageref}{9}
+\nomenclatureentry{Ahbars$\hbar_{s}$@[{$\hbar_{s}$}]\begingroup Jet impingement heat transfer coefficient [W m$^{\varA{-2}}$ K$^{\varA{-1}}$]\nomeqref {5}|nompageref}{10}
+\nomenclatureentry{AAs$A_{s}$@[{$A_{s}$}]\begingroup Impingement surface area [cm$^{2}$]\nomeqref {5}|nompageref}{10}
+\nomenclatureentry{AT$T$@[{$T$}]\begingroup Temperature [\textcelsius]\nomeqref {5}|nompageref}{10}
+\nomenclatureentry{ATs$T_{s}$@[{$T_{s}$}]\begingroup Impingement surface temperature [\textcelsius]\nomeqref {5}|nompageref}{10}
+\nomenclatureentry{ATRTDs$\overline{T}_{RTD}$@[{$\overline{T}_{RTD}$}]\begingroup Mean temperature of the RTDs in the copper block [\textcelsius]\nomeqref {6}|nompageref}{10}
+\nomenclatureentry{AL$L_{s}$@[{$L_{s}$}]\begingroup Impingement surface-to-RTDs' plane distance [mm]\nomeqref {6}|nompageref}{10}
+\nomenclatureentry{Aks$k_{s}$@[{$k_{s}$}]\begingroup Thermal conductivity of the heated surface [W m$^{\varA{-1}}$ K$^{\varA{-1}}$]\nomeqref {6}|nompageref}{10}
+\nomenclatureentry{ACOP$COP$@[{$COP$}]\begingroup Coefficient of performance [-]\nomeqref {7}|nompageref}{11}
+\nomenclatureentry{AWdot$\dot{W}$@[{$\dot{W}$}]\begingroup Total input power [W]\nomeqref {7}|nompageref}{11}
+\nomenclatureentry{AWdotfan$\dot{W}_{fan}$@[{$\dot{W}_{fan}$}]\begingroup Electrical power consumption of a single cooler fan [W]\nomeqref {7}|nompageref}{11}
+\nomenclatureentry{Bdelta$\delta$@[{$\delta$}]\begingroup Energy balance residue [\%]\nomeqref {8}|nompageref}{11}
+\nomenclatureentry{BDeltaTsc$\Delta T_{sc}$@[{$\Delta T_{sc}$}]\begingroup Refrigerant sub-cooling degree [\textcelsius]\nomeqref {8}|nompageref}{11}
+\nomenclatureentry{DHETHET@[{HET}]\begingroup Hot End Temperature\nomeqref {8}|nompageref}{17}
