@@ -1,15 +1,17 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.5.22)  22 MAY 2019 17:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.9.2)  29 MAY 2019 17:40
 entering extended mode
 **./Paper_Jet_Cooler(ATE_2).tex
 (Paper_Jet_Cooler(ATE_2).tex
-LaTeX2e <2018-12-01>
-("C:\Program Files\MiKTeX 2.9\tex/latex/elsarticle\elsarticle.cls"
+LaTeX2e <2018-04-01> patch level 5
+
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\elsarticle\elsarti
+cle.cls"
 Document Class: elsarticle 2019/02/25, 3.2: Elsevier Ltd
 \@bls=\dimen102
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\article.cls"
-Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\size12.clo"
-File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count80
 \c@section=\count81
@@ -23,25 +25,30 @@ File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen103
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
+sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
+y"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
+sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graph
+ics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
+x.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen104
@@ -54,21 +61,20 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \c@author=\count92
 \@eadauthor=\toks15
 \c@affn=\count93
-\absbox=\box27
-\elsarticlehighlightsbox=\box28
-\elsarticlegrabsbox=\box29
-\keybox=\box30
+\absbox=\box26
+\elsarticlehighlightsbox=\box27
+\elsarticlegrabsbox=\box28
+\keybox=\box29
 \Columnwidth=\dimen106
 \space@left=\dimen107
-\els@boxa=\box31
-\els@boxb=\box32
+\els@boxa=\box30
+\els@boxb=\box31
 \leftMargin=\dimen108
 \@enLab=\toks16
 \@sep=\skip43
 \@@sep=\skip44
-
-(Paper_Jet_Cooler(ATE_2).spl)
-("C:\Program Files\MiKTeX 2.9\tex/latex/natbib\natbib.sty"
+ (Paper_Jet_Cooler(ATE_2).spl)
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip45
 \bibsep=\skip46
@@ -80,10 +86,12 @@ LaTeX Info: Redefining \cite on input line 694.
 
 \appnamewidth=\dimen109
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.s
+ty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.
+sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks17
 \symAMSa=\mathgroup4
@@ -91,41 +99,47 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
-Package: amsmath 2018/12/01 v2.17b AMS math features
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.st
+y"
+Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip47
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.st
+y"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks18
 \ex@=\dimen110
 ))
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen111
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count95
-LaTeX Info: Redefining \frac on input line 223.
+LaTeX Info: Redefining \frac on input line 213.
 \uproot@=\count96
 \leftroot@=\count97
-LaTeX Info: Redefining \overline on input line 385.
+LaTeX Info: Redefining \overline on input line 375.
 \classnum@=\count98
 \DOTSCASE@=\count99
-LaTeX Info: Redefining \ldots on input line 482.
-LaTeX Info: Redefining \dots on input line 485.
-LaTeX Info: Redefining \cdots on input line 606.
-\Mathstrutbox@=\box33
-\strutbox@=\box34
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box32
+\strutbox@=\box33
 \big@size=\dimen112
-LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 \macc@depth=\count100
 \c@MaxMatrixCols=\count101
 \dotsspace@=\muskip10
@@ -146,67 +160,51 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
 \multlinegap=\skip48
 \multlinetaggap=\skip49
 \mathdisplay@stack=\toks22
-LaTeX Info: Redefining \[ on input line 2844.
-LaTeX Info: Redefining \] on input line 2845.
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/subfigure\subfigure.sty"
-Package: subfigure 2002/07/30 v2.1.4 subfigure package
-\subfigtopskip=\skip50
-\subfigcapskip=\skip51
-\subfigcaptopadj=\dimen119
-\subfigbottomskip=\skip52
-\subfigcapmargin=\dimen120
-\subfiglabelskip=\skip53
-\c@subfigure=\count107
-\c@lofdepth=\count108
-\c@subtable=\count109
-\c@lotdepth=\count110
-
-****************************************
-* Local config file subfigure.cfg used *
-****************************************
-("C:\Program Files\MiKTeX 2.9\tex/latex/subfigure\subfigure.cfg")
-\subfig@top=\skip54
-\subfig@bottom=\skip55
-)
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\makeidx.sty"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\makeidx.sty"
 Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/booktabs\booktabs.sty"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\booktabs\booktabs.
+sty"
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
-\heavyrulewidth=\dimen121
-\lightrulewidth=\dimen122
-\cmidrulewidth=\dimen123
-\belowrulesep=\dimen124
-\belowbottomsep=\dimen125
-\aboverulesep=\dimen126
-\abovetopsep=\dimen127
-\cmidrulesep=\dimen128
-\cmidrulekern=\dimen129
-\defaultaddspace=\dimen130
-\@cmidla=\count111
-\@cmidlb=\count112
-\@aboverulesep=\dimen131
-\@belowrulesep=\dimen132
-\@thisruleclass=\count113
-\@lastruleclass=\count114
-\@thisrulewidth=\dimen133
+\heavyrulewidth=\dimen119
+\lightrulewidth=\dimen120
+\cmidrulewidth=\dimen121
+\belowrulesep=\dimen122
+\belowbottomsep=\dimen123
+\aboverulesep=\dimen124
+\abovetopsep=\dimen125
+\cmidrulesep=\dimen126
+\cmidrulekern=\dimen127
+\defaultaddspace=\dimen128
+\@cmidla=\count107
+\@cmidlb=\count108
+\@aboverulesep=\dimen129
+\@belowrulesep=\dimen130
+\@thisruleclass=\count109
+\@lastruleclass=\count110
+\@thisrulewidth=\dimen131
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/ctable\ctable.sty"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ctable\ctable.sty"
 Package: ctable 2015/10/17 v1.31 ctable package for flexible typesetting of tab
 le and figure floats using key/value directives
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.sty"
-Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
+ty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.sty"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.
+sty"
 Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count115
+\etb@tempcnta=\count111
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color
+.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -220,116 +218,110 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.sty"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.st
+y"
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/xkeyval\xkeyval.tex"
-("C:\Program Files\MiKTeX 2.9\tex/generic/xkeyval\xkvutils.tex"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.
+tex"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvutils
+.tex"
 \XKV@toks=\toks23
 \XKV@tempa@toks=\toks24
 )
-\XKV@depth=\count116
+\XKV@depth=\count112
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-("C:\Program Files\MiKTeX 2.9\tex/latex/tools\array.sty"
-Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
-\col@sep=\dimen134
-\ar@mcellbox=\box35
-\extrarowheight=\dimen135
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
+\col@sep=\dimen132
+\ar@mcellbox=\box34
+\extrarowheight=\dimen133
 \NC@list=\toks25
-\extratabsurround=\skip56
-\backup@length=\skip57
-\ar@cellbox=\box36
+\extratabsurround=\skip50
+\backup@length=\skip51
+\ar@cellbox=\box35
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/tools\tabularx.sty"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\tabularx.sty
+"
 Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
-\TX@col@width=\dimen136
-\TX@old@table=\dimen137
-\TX@old@col=\dimen138
-\TX@target=\dimen139
-\TX@delta=\dimen140
-\TX@cols=\count117
+\TX@col@width=\dimen134
+\TX@old@table=\dimen135
+\TX@old@col=\dimen136
+\TX@target=\dimen137
+\TX@delta=\dimen138
+\TX@cols=\count113
 \TX@ftn=\toks26
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\rotating.sty"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\rotating.
+sty"
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-\c@r@tfl@t=\count118
-\rotFPtop=\skip58
-\rotFPbot=\skip59
-\rot@float@box=\box37
+\c@r@tfl@t=\count114
+\rotFPtop=\skip52
+\rotFPbot=\skip53
+\rot@float@box=\box36
 \rot@mess@toks=\toks27
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\transparent.sty"
-Package: transparent 2018/11/18 v1.3 Transparency via pdfTeX's color stack (HO)
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\transpare
+nt.sty"
+Package: transparent 2016/05/16 v1.1 Transparency via pdfTeX's color stack (HO)
 
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\auxhook.sty"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.s
+ty"
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 ))
-\@CTframesep=\dimen141
-\@dfltCTframesep=\dimen142
-\@CTframerule=\dimen143
-\@dfltCTframerule=\dimen144
-\@CTwidth=\dimen145
-\@dfltCTwidth=\dimen146
-\@CTcaptionskip=\dimen147
-\@dfltCTcaptionskip=\dimen148
-\@CTmaxwidth=\dimen149
-\@dfltCTmaxwidth=\dimen150
-\@CTmincapwidth=\dimen151
-\@dfltCTmincapwidth=\dimen152
-\@CTfooterwidth=\dimen153
-\@dfltCTfooterwidth=\dimen154
-\@CTw=\dimen155
-\@CTfloatwidth=\dimen156
-\@CToldsep=\dimen157
-\@CToldrule=\dimen158
-\CT@t=\box38
-\@CTcurftwidth=\dimen159
+\@CTframesep=\dimen139
+\@dfltCTframesep=\dimen140
+\@CTframerule=\dimen141
+\@dfltCTframerule=\dimen142
+\@CTwidth=\dimen143
+\@dfltCTwidth=\dimen144
+\@CTcaptionskip=\dimen145
+\@dfltCTcaptionskip=\dimen146
+\@CTmaxwidth=\dimen147
+\@dfltCTmaxwidth=\dimen148
+\@CTmincapwidth=\dimen149
+\@dfltCTmincapwidth=\dimen150
+\@CTfooterwidth=\dimen151
+\@dfltCTfooterwidth=\dimen152
+\@CTw=\dimen153
+\@CTfloatwidth=\dimen154
+\@CToldsep=\dimen155
+\@CToldrule=\dimen156
+\CT@t=\box37
+\@CTcurftwidth=\dimen157
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/tabulary\tabulary.sty"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tabulary\tabulary.
+sty"
 Package: tabulary 2014/06/11 v0.10 tabulary package (DPC)
-\TY@count=\count119
-\TY@linewidth=\dimen160
-\tymin=\dimen161
-\tymax=\dimen162
-\TY@tablewidth=\dimen163
+\TY@count=\count115
+\TY@linewidth=\dimen158
+\tymin=\dimen159
+\tymax=\dimen160
+\TY@tablewidth=\dimen161
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/multirow\multirow.sty"
-Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
-\multirow@colwidth=\skip60
-\multirow@cntb=\count120
-\multirow@dima=\skip61
-\bigstrutjot=\dimen164
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multirow\multirow.
+sty"
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip54
+\multirow@cntb=\count116
+\multirow@dima=\skip55
+\bigstrutjot=\dimen162
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/nomencl\nomencl.sty"
-Package: nomencl 2019/05/05 v5.2 Nomenclature package
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/koma-script\tocbasic.sty"
-Package: tocbasic 2019/02/01 v3.26b KOMA-Script package (handling toc-files)
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/koma-script\scrbase.sty"
-Package: scrbase 2019/02/01 v3.26b KOMA-Script package (KOMA-Script-independent
- basics and keyval usage)
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/koma-script\scrlfile.sty"
-Package: scrlfile 2019/02/01 v3.26b KOMA-Script package (loading files)
-))
-\scr@dte@tocline@numberwidth=\skip62
-\scr@dte@tocline@numbox=\box39
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\nomencl\nomencl.st
+y"
+Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
+\nomlabelwidth=\dimen163
+\nom@tempdim=\dimen164
+\nomitemsep=\skip56
 )
-Package tocbasic Info: setting babel extension for `nlo' on input line 155.
-Package tocbasic Info: setting babel extension for `nls' on input line 156.
-\nomlabelwidth=\dimen165
-\nom@tempdim=\dimen166
-\nomitemsep=\skip63
-)
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\textcomp.sty"
-Package: textcomp 2018/08/11 v2.0j Standard LaTeX package
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\textcomp.sty"
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
 (textcomp)               4 = 5 + \texteuro
@@ -342,14 +334,13 @@ Package textcomp Info: Sub-encoding information:
 (textcomp)             Family '?' is the default used for unknown fonts.
 (textcomp)             See the documentation for details.
 Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\ts1enc.def"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.def"
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\ts1enc.dfu"
-File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.dfu"
+File: ts1enc.dfu 2018/04/05 v1.2c UTF-8 support for inputenc
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00A4 (decimal 164)
@@ -485,83 +476,144 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/colortbl\colortbl.sty"
-Package: colortbl 2018/12/12 v1.0d Color table columns (DPC)
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\colortbl\colortbl.
+sty"
+Package: colortbl 2018/05/02 v1.0c Color table columns (DPC)
 \everycr=\toks28
-\minrowclearance=\skip64
+\minrowclearance=\skip57
+)
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\units\nicefrac.sty
+"
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip58
+\L@UnitsRaiseTextstyle=\skip59
+\L@UnitsRaiseScriptstyle=\skip60
+LaTeX Info: Redefining \nicefrac on input line 131.
+)
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\subfig\subfig.sty"
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption.st
+y"
+Package: caption 2018/05/01 v3.3-147 Customizing captions (AR)
+
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3.s
+ty"
+Package: caption3 2018/05/27 v1.8a caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen165
+\captionmargin@=\dimen166
+\captionwidth=\dimen167
+\caption@tempdima=\dimen168
+\caption@indent=\dimen169
+\caption@parindent=\dimen170
+\caption@hangindent=\dimen171
+)
+\c@ContinuedFloat=\count117
+Package caption Info: rotating package is loaded.
+)
+\c@KVtest=\count118
+\sf@farskip=\skip61
+\sf@captopadj=\dimen172
+\sf@capskip=\skip62
+\sf@nearskip=\skip63
+\c@subfigure=\count119
+\c@subfigure@save=\count120
+\c@lofdepth=\count121
+\c@subtable=\count122
+\c@subtable@save=\count123
+\c@lotdepth=\count124
+\sf@top=\skip64
+\sf@bottom=\skip65
 )
 \@nomenclaturefile=\write4
 \openout4 = `Paper_Jet_Cooler(ATE_2).nlo'.
 
-Package nomencl Info: Writing nomenclature file Paper_Jet_Cooler(ATE_2).nlo on 
-input line 14.
 
+Writing nomenclature file Paper_Jet_Cooler(ATE_2).nlo
 (Paper_Jet_Cooler(ATE_2).aux)
 \openout1 = `Paper_Jet_Cooler(ATE_2).aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 30.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    ... okay on input line 30.
 
-("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
+ii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count121
-\scratchdimen=\dimen167
-\scratchbox=\box40
-\nofMPsegments=\count122
-\nofMParguments=\count123
+\scratchcounter=\count125
+\scratchdimen=\dimen173
+\scratchbox=\box38
+\nofMPsegments=\count126
+\nofMParguments=\count127
 \everyMPshowfont=\toks29
-\MPscratchCnt=\count124
-\MPscratchDim=\dimen168
-\MPnumerator=\count125
-\makeMPintoPDFobject=\count126
+\MPscratchCnt=\count128
+\MPscratchDim=\dimen174
+\MPnumerator=\count129
+\makeMPintoPDFobject=\count130
 \everyMPtoPDFconversion=\toks30
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
+)
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
+base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.sty"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infware
+rr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
+y"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvdefinekeys.sty"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefin
+ekeys.sty"
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.sty"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
+.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )))
-("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
+.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvsetkeys.sty"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetke
+ys.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\etexcmds.sty"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmd
+s.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifluatex.sty"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluate
+x.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-))))
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\pdftexcmds.sty"
-Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexc
+mds.sty"
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -575,17 +627,18 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 43.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for U+msa on input line 49.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 43.
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+LaTeX Font Info:    Try loading font information for U+msb on input line 49.
+("C:\Users\gustt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-(Paper_Jet_Cooler(ATE_2).nls
+) (Paper_Jet_Cooler(ATE_2).nls
 Overfull \hbox (2.61108pt too wide) has occurred while \output is active
 [] 
  []
@@ -593,109 +646,555 @@ Overfull \hbox (2.61108pt too wide) has occurred while \output is active
 [1
 
 
-{C:/Users/Douglas/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-[2] [3]) [4]
+{C:/Users/gustt/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+[3]) [4]
 
 Package natbib Warning: Citation `Kaviany1995' on page 5 undefined on input lin
-e 63.
+e 67.
 
 
 Package natbib Warning: Citation `Nield2006' on page 5 undefined on input line 
-63.
+67.
 
 
 Package natbib Warning: Citation `Trevizoli2015' on page 5 undefined on input l
-ine 71.
+ine 75.
 
 
 Package natbib Warning: Citation `Ergun1952' on page 5 undefined on input line 
-87.
+91.
 
 [5]
 
 Package natbib Warning: Citation `Engelbrecht2004' on page 6 undefined on input
- line 90.
+ line 94.
 
 
 Package natbib Warning: Citation `Trevizoli2015' on page 6 undefined on input l
-ine 90.
+ine 94.
 
 
 Package natbib Warning: Citation `Kaviany1995' on page 6 undefined on input lin
-e 97.
+e 101.
 
 
 Package natbib Warning: Citation `Nield2006' on page 6 undefined on input line 
-97.
+101.
 
 
 Package natbib Warning: Citation `Kaviany1995' on page 6 undefined on input lin
-e 97.
+e 101.
 
 
 Package natbib Warning: Citation `Engelbrecht2004' on page 6 undefined on input
- line 100.
+ line 108.
 
 
 Package natbib Warning: Citation `Trevizoli2015' on page 6 undefined on input l
-ine 100.
+ine 108.
 
 
 Package natbib Warning: Citation `Kaviany1995' on page 6 undefined on input lin
-e 110.
+e 118.
 
 
 Package natbib Warning: Citation `Nield2006' on page 6 undefined on input line 
-110.
+118.
 
 [6]
 
 Package natbib Warning: Citation `Engelbrecht2008' on page 7 undefined on input
- line 112.
+ line 120.
 
 
 Package natbib Warning: Citation `Trevizoli2014' on page 7 undefined on input l
-ine 112.
+ine 120.
 
 
 Package natbib Warning: Citation `Trevizoli2016b' on page 7 undefined on input 
-line 112.
+line 120.
 
 
 Package natbib Warning: Citation `Trevizoli2015' on page 7 undefined on input l
-ine 114.
+ine 122.
 
-[7] [8] [9] (Paper_Jet_Cooler(ATE_2).bbl)
+[7] [8]
+
+Package natbib Warning: Citation `Patankar1980' on page 9 undefined on input li
+ne 169.
+
+
+Package natbib Warning: Citation `Maliska2004' on page 9 undefined on input lin
+e 169.
+
+
+LaTeX Warning: Reference `sec:momentum-equation' on page 9 undefined on input l
+ine 174.
+
+
+Package natbib Warning: Citation `Trevizoli2015' on page 9 undefined on input l
+ine 174.
+
+[9]
+
+Package natbib Warning: Citation `Patankar1980' on page 10 undefined on input l
+ine 214.
+
+
+Package natbib Warning: Citation `Maliska2004' on page 10 undefined on input li
+ne 214.
+
+<1D_grid.pdf, id=45, 456.13904pt x 192.27301pt>
+File: 1D_grid.pdf Graphic file (type pdf)
+<use 1D_grid.pdf>
+Package pdftex.def Info: 1D_grid.pdf  used on input line 218.
+(pdftex.def)             Requested size: 364.91171pt x 153.8186pt.
+[10] [11 <./1D_grid.pdf>] [12]
+
+Package natbib Warning: Citation `Maliska2004' on page 13 undefined on input li
+ne 300.
+
+
+Package natbib Warning: Citation `Maliska2004' on page 13 undefined on input li
+ne 300.
+
+
+Package natbib Warning: Citation `Raithby' on page 13 undefined on input line 3
+00.
+
+[13] [14]
+Overfull \hbox (117.9877pt too wide) in paragraph at lines 388--395
+ [][] 
+ []
+
+
+Package natbib Warning: Citation `Patankar1980' on page 15 undefined on input l
+ine 397.
+
+
+LaTeX Warning: Reference `subsec:conv-crit' on page 15 undefined on input line 
+399.
+
+
+Overfull \hbox (1.72787pt too wide) in paragraph at lines 404--405
+[]\OT1/cmr/m/n/12 The cas-ing en-ergy equa-tion is also dis-cretized us-ing a f
+ully im-plicit scheme.
+ []
+
+[15] [16]
+<2D_grid.pdf, id=85, 323.7919pt x 303.14592pt>
+File: 2D_grid.pdf Graphic file (type pdf)
+<use 2D_grid.pdf>
+Package pdftex.def Info: 2D_grid.pdf  used on input line 408.
+(pdftex.def)             Requested size: 259.03386pt x 242.51706pt.
+
+Overfull \hbox (10.77145pt too wide) detected at line 415
+[][] [][] [][] \OML/cmm/m/it/12 []c[][]dxdydt \OT1/cmr/m/n/12 = [][] [][] [][]
+ [][]\OML/cmm/m/it/12 k[][][]dxdydt\OT1/cmr/m/n/12 +
+ []
+
+[17 <./2D_grid.pdf>]
+<kn_evaluation.pdf, id=98, 262.34824pt x 174.99779pt>
+File: kn_evaluation.pdf Graphic file (type pdf)
+<use kn_evaluation.pdf>
+Package pdftex.def Info: kn_evaluation.pdf  used on input line 457.
+(pdftex.def)             Requested size: 209.87886pt x 139.9984pt.
+ [18] [19 <./kn_evaluation.pdf>] [20] [21]
+
+Package natbib Warning: Citation `Trevizoli2015' on page 22 undefined on input 
+line 609.
+
+
+LaTeX Warning: Reference `sec:solver-routine' on page 22 undefined on input lin
+e 609.
+
+[22]
+
+Package natbib Warning: Citation `Maliska2004' on page 23 undefined on input li
+ne 624.
+
+
+LaTeX Warning: Reference `fig:Trevizoli_magnet' on page 23 undefined on input l
+ine 631.
+
+[23]
+
+LaTeX Warning: Reference `tab:mesh_cases' on page 24 undefined on input line 65
+1.
+
+<CE_solid_1.pdf, id=127, 578.16pt x 578.16pt>
+File: CE_solid_1.pdf Graphic file (type pdf)
+<use CE_solid_1.pdf>
+Package pdftex.def Info: CE_solid_1.pdf  used on input line 655.
+(pdftex.def)             Requested size: 346.89867pt x 346.89867pt.
+
+LaTeX Warning: Reference `tab:mesh_cases' on page 24 undefined on input line 65
+6.
+
+
+LaTeX Warning: Reference `tab:mesh_cases' on page 24 undefined on input line 65
+6.
+
+[24 <./CE_solid_1.pdf>]
+
+LaTeX Warning: Reference `subsec:Fluid_domain' on page 25 undefined on input li
+ne 667.
+
+
+LaTeX Warning: Reference `subsec:conv-crit' on page 25 undefined on input line 
+667.
+
+[25]
+<CE_solid_3.pdf, id=163, 578.16pt x 578.16pt>
+File: CE_solid_3.pdf Graphic file (type pdf)
+<use CE_solid_3.pdf>
+Package pdftex.def Info: CE_solid_3.pdf  used on input line 671.
+(pdftex.def)             Requested size: 346.89867pt x 346.89867pt.
+
+
+LaTeX Warning: Reference `subsec:conv-crit' on page 26 undefined on input line 
+672.
+
+
+LaTeX Warning: Reference `subsec:conv-crit' on page 26 undefined on input line 
+672.
+
+<CE_fluid_1_teste.pdf, id=164, 540.19412pt x 511.39622pt>
+File: CE_fluid_1_teste.pdf Graphic file (type pdf)
+<use CE_fluid_1_teste.pdf>
+Package pdftex.def Info: CE_fluid_1_teste.pdf  used on input line 680.
+(pdftex.def)             Requested size: 324.11897pt x 306.84009pt.
+
+LaTeX Warning: Reference `tab:mesh_cases' on page 26 undefined on input line 68
+1.
+
+
+LaTeX Warning: Reference `tab:mesh_cases' on page 26 undefined on input line 68
+1.
+
+<CE_fluid_3.pdf, id=165, 578.16pt x 578.16pt>
+File: CE_fluid_3.pdf Graphic file (type pdf)
+<use CE_fluid_3.pdf>
+Package pdftex.def Info: CE_fluid_3.pdf  used on input line 687.
+(pdftex.def)             Requested size: 346.89867pt x 346.89867pt.
+
+LaTeX Warning: Reference `En_bal_f' on page 26 undefined on input line 688.
+
+
+LaTeX Warning: Reference `subsec:conv-crit' on page 26 undefined on input line 
+688.
+
+
+LaTeX Warning: Reference `En_bal_f' on page 26 undefined on input line 688.
+
+
+LaTeX Warning: Reference `subsec:conv-crit' on page 26 undefined on input line 
+688.
+
+<CE_fluid_adv.pdf, id=166, 439.3852pt x 134.70403pt>
+File: CE_fluid_adv.pdf Graphic file (type pdf)
+<use CE_fluid_adv.pdf>
+Package pdftex.def Info: CE_fluid_adv.pdf  used on input line 694.
+(pdftex.def)             Requested size: 351.50862pt x 107.76335pt.
+<CE_casing_1.pdf, id=167, 578.16pt x 578.16pt>
+File: CE_casing_1.pdf Graphic file (type pdf)
+<use CE_casing_1.pdf>
+Package pdftex.def Info: CE_casing_1.pdf  used on input line 706.
+(pdftex.def)             Requested size: 346.89867pt x 346.89867pt.
+
+LaTeX Warning: Reference `tab:mesh_cases' on page 26 undefined on input line 70
+7.
+
+
+LaTeX Warning: Reference `tab:mesh_cases' on page 26 undefined on input line 70
+7.
+
+<CE_casing_3.pdf, id=168, 578.16pt x 578.16pt>
+File: CE_casing_3.pdf Graphic file (type pdf)
+<use CE_casing_3.pdf>
+Package pdftex.def Info: CE_casing_3.pdf  used on input line 714.
+(pdftex.def)             Requested size: 346.89867pt x 346.89867pt.
+
+LaTeX Warning: Reference `En_bal_csg' on page 26 undefined on input line 715.
+
+
+LaTeX Warning: Reference `subsec:conv-crit' on page 26 undefined on input line 
+715.
+
+
+LaTeX Warning: Reference `En_bal_csg' on page 26 undefined on input line 715.
+
+
+LaTeX Warning: Reference `subsec:conv-crit' on page 26 undefined on input line 
+715.
+
+
+Package natbib Warning: Citation `Trevizoli2015' on page 26 undefined on input 
+line 727.
+
+[26] [27 <./CE_solid_3.pdf>]
+<Losses_result_f_5_phi_41.pdf, id=192, 578.16pt x 578.16pt>
+File: Losses_result_f_5_phi_41.pdf Graphic file (type pdf)
+<use Losses_result_f_5_phi_41.pdf>
+Package pdftex.def Info: Losses_result_f_5_phi_41.pdf  used on input line 730.
+(pdftex.def)             Requested size: 216.80946pt x 216.81pt.
+<Losses_result_f_10_phi_41.pdf, id=193, 578.16pt x 578.16pt>
+File: Losses_result_f_10_phi_41.pdf Graphic file (type pdf)
+<use Losses_result_f_10_phi_41.pdf>
+Package pdftex.def Info: Losses_result_f_10_phi_41.pdf  used on input line 731.
+
+(pdftex.def)             Requested size: 216.80946pt x 216.81pt.
+<Losses_result_f_5_phi_62.pdf, id=194, 578.16pt x 578.16pt>
+File: Losses_result_f_5_phi_62.pdf Graphic file (type pdf)
+<use Losses_result_f_5_phi_62.pdf>
+Package pdftex.def Info: Losses_result_f_5_phi_62.pdf  used on input line 732.
+(pdftex.def)             Requested size: 216.80946pt x 216.81pt.
+<Losses_result_f_10_phi_62.pdf, id=195, 578.16pt x 578.16pt>
+File: Losses_result_f_10_phi_62.pdf Graphic file (type pdf)
+<use Losses_result_f_10_phi_62.pdf>
+Package pdftex.def Info: Losses_result_f_10_phi_62.pdf  used on input line 733.
+
+(pdftex.def)             Requested size: 216.80946pt x 216.81pt.
+<Losses_result_f_5_phi_83.pdf, id=196, 578.16pt x 578.16pt>
+File: Losses_result_f_5_phi_83.pdf Graphic file (type pdf)
+<use Losses_result_f_5_phi_83.pdf>
+Package pdftex.def Info: Losses_result_f_5_phi_83.pdf  used on input line 734.
+(pdftex.def)             Requested size: 216.80946pt x 216.81pt.
+<Losses_result_f_10_phi_83.pdf, id=197, 578.16pt x 578.16pt>
+File: Losses_result_f_10_phi_83.pdf Graphic file (type pdf)
+<use Losses_result_f_10_phi_83.pdf>
+Package pdftex.def Info: Losses_result_f_10_phi_83.pdf  used on input line 735.
+
+(pdftex.def)             Requested size: 216.80946pt x 216.81pt.
+
+Overfull \hbox (43.61893pt too wide) in paragraph at lines 730--736
+[][][] 
+ []
+
+
+Overfull \hbox (43.61893pt too wide) in paragraph at lines 730--736
+[][] 
+ []
+
+
+Overfull \hbox (43.61893pt too wide) in paragraph at lines 730--736
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 730--736
+
+ []
+
+
+Package natbib Warning: Citation `Trevizoli2015' on page 28 undefined on input 
+line 737.
+
+
+Package natbib Warning: Citation `Trevizoli2015' on page 28 undefined on input 
+line 737.
+
+
+LaTeX Warning: Float too large for page by 201.68pt on input line 739.
+
+[28 <./CE_fluid_1_teste.pdf>] [29 <./CE_fluid_3.pdf>]
+
+Package natbib Warning: Citation `Trevizoli2015' on page 30 undefined on input 
+line 743.
+
+
+Package natbib Warning: Citation `LeiPHD' on page 30 undefined on input line 74
+3.
+
+
+Package natbib Warning: Citation `Trevizoli2015' on page 30 undefined on input 
+line 743.
+
+
+Package natbib Warning: Citation `Trevizoli2015' on page 30 undefined on input 
+line 745.
+
+<Result_pg255_5.pdf, id=238, 578.16pt x 578.16pt>
+File: Result_pg255_5.pdf Graphic file (type pdf)
+<use Result_pg255_5.pdf>
+Package pdftex.def Info: Result_pg255_5.pdf  used on input line 749.
+(pdftex.def)             Requested size: 325.2142pt x 325.215pt.
+<Result_pg255_10.pdf, id=239, 578.16pt x 578.16pt>
+File: Result_pg255_10.pdf Graphic file (type pdf)
+<use Result_pg255_10.pdf>
+Package pdftex.def Info: Result_pg255_10.pdf  used on input line 750.
+(pdftex.def)             Requested size: 325.2142pt x 325.215pt.
+
+Package natbib Warning: Citation `Trevizoli2015' on page 30 undefined on input 
+line 751.
+
+
+Package natbib Warning: Citation `Trevizoli2015' on page 30 undefined on input 
+line 751.
+
+
+LaTeX Warning: Float too large for page by 220.93pt on input line 753.
+
+[30 <./CE_fluid_adv.pdf>]
+
+Package natbib Warning: Citation `Trevizoli2015' on page 31 undefined on input 
+line 757.
+
+[31 <./CE_casing_1.pdf>] [32 <./CE_casing_3.pdf>] [33 <./Losses_result_f_5_phi_
+41.pdf> <./Losses_result_f_10_phi_41.pdf
+
+pdfTeX warning: pdflatex (file ./Losses_result_f_10_phi_41.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+> <./Losses_result_f_5_phi_62.pdf
+
+pdfTeX warning: pdflatex (file ./Losses_result_f_5_phi_62.pdf): PDF inclusion: 
+multiple pdfs with page group included in a single page
+> <./Losses_result_f_10_phi_62.pdf
+
+pdfTeX warning: pdflatex (file ./Losses_result_f_10_phi_62.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+> <./Losses_result_f_5_phi_83.pdf
+
+pdfTeX warning: pdflatex (file ./Losses_result_f_5_phi_83.pdf): PDF inclusion: 
+multiple pdfs with page group included in a single page
+> <./Losses_result_f_10_phi_83.pdf
+
+pdfTeX warning: pdflatex (file ./Losses_result_f_10_phi_83.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+>] [34 <./Result_pg255_5.pdf> <./Result_pg255_10.pdf
+
+pdfTeX warning: pdflatex (file ./Result_pg255_10.pdf): PDF inclusion: multiple 
+pdfs with page group included in a single page
+>]
+
+Package natbib Warning: Citation `Nakashima2017' on page 35 undefined on input 
+line 766.
+
+
+Package natbib Warning: Citation `Trevizoli2015' on page 35 undefined on input 
+line 766.
+
+
+Package natbib Warning: Citation `Nakashima2017' on page 35 undefined on input 
+line 766.
+
+
+Package natbib Warning: Citation `Trevizoli2015' on page 35 undefined on input 
+line 766.
+
+
+LaTeX Warning: Reference `fig:Fb' on page 35 undefined on input line 766.
+
+
+LaTeX Warning: Reference `tab:par_paulo' on page 35 undefined on input line 766
+.
+
+<Alan_span_0.pdf, id=465, 578.16pt x 578.16pt>
+File: Alan_span_0.pdf Graphic file (type pdf)
+<use Alan_span_0.pdf>
+Package pdftex.def Info: Alan_span_0.pdf  used on input line 770.
+(pdftex.def)             Requested size: 325.2142pt x 325.215pt.
+<Alan_span_5.pdf, id=466, 578.16pt x 578.16pt>
+File: Alan_span_5.pdf Graphic file (type pdf)
+<use Alan_span_5.pdf>
+Package pdftex.def Info: Alan_span_5.pdf  used on input line 771.
+(pdftex.def)             Requested size: 325.2142pt x 325.215pt.
+
+Package natbib Warning: Citation `Nakashima2017' on page 35 undefined on input 
+line 772.
+
+
+Package natbib Warning: Citation `Nakashima2017' on page 35 undefined on input 
+line 772.
+
+
+LaTeX Warning: Float too large for page by 202.93pt on input line 774.
+
+
+Package natbib Warning: Citation `Teyber2016' on page 35 undefined on input lin
+e 776.
+
+
+Package natbib Warning: Citation `Nakashima2017' on page 35 undefined on input 
+line 776.
+
+
+Package natbib Warning: Citation `Nakashima2017' on page 35 undefined on input 
+line 778.
+
+
+Package natbib Warning: Citation `Trevizoli2015' on page 35 undefined on input 
+line 778.
+
+
+Package natbib Warning: Citation `Nakashima2017' on page 35 undefined on input 
+line 778.
+
+
+Package natbib Warning: Citation `EriksenPHD' on page 35 undefined on input lin
+e 778.
+
+
+Package natbib Warning: Citation `Nakashima2017' on page 35 undefined on input 
+line 778.
+
+[35] [36 <./Alan_span_0.pdf> <./Alan_span_5.pdf
+
+pdfTeX warning: pdflatex (file ./Alan_span_5.pdf): PDF inclusion: multiple pdfs
+ with page group included in a single page
+>] (Paper_Jet_Cooler(ATE_2).bbl)
 
 Package natbib Warning: There were undefined citations.
 
-[10] (Paper_Jet_Cooler(ATE_2).aux) ) 
+[37] (Paper_Jet_Cooler(ATE_2).aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 5995 strings out of 492895
- 82380 string characters out of 3133473
- 190250 words of memory out of 3000000
- 9774 multiletter control sequences out of 15000+200000
- 11788 words of font info for 46 fonts, out of 3000000 for 9000
+ 6623 strings out of 492973
+ 96580 string characters out of 3126693
+ 181381 words of memory out of 3000000
+ 10338 multiletter control sequences out of 15000+200000
+ 12096 words of font info for 47 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,7n,53p,817b,246s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Douglas\AppData\Local\MiKTeX\2.9
-\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Program Files/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
-0.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:
-/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program 
-Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbol
-s/msbm10.pfb>
-Output written on Paper_Jet_Cooler(ATE_2).pdf (10 pages, 201348 bytes).
+ 61i,20n,96p,1330b,445s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\gustt\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
+tcrm1200.pk><C:/Users/gustt/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmbx10.pfb><C:/Users/gustt/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/gustt/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/gustt/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/gustt
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C
+:/Users/gustt/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmmi6.pfb><C:/Users/gustt/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmmi7.pfb><C:/Users/gustt/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmmi8.pfb><C:/Users/gustt/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/gustt/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/gustt/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users
+/gustt/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pf
+b><C:/Users/gustt/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmr6.pfb><C:/Users/gustt/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmr7.pfb><C:/Users/gustt/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/gustt/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/gustt/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/gustt/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Use
+rs/gustt/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8
+.pfb><C:/Users/gustt/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmti10.pfb><C:/Users/gustt/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmti12.pfb><C:/Users/gustt/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/gustt/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmr.pfb><C:/Users/gustt/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmri.pfb><C:/Users/gustt/
+AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pf
+b><C:/Users/gustt/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/up
+lr8a.pfb><C:/Users/gustt/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/pala
+tino/uplri8a.pfb>
+Output written on Paper_Jet_Cooler(ATE_2).pdf (37 pages, 888450 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
+ 595 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 

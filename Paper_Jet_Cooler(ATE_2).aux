@@ -4,8 +4,8 @@
 \citation{Kaviany1995,Nield2006}
 \citation{Trevizoli2015}
 \citation{Ergun1952}
-\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{5}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {2}Mathematical Model}{5}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{5}}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Mathematical Model}{5}}
 \newlabel{BrinkFroch}{{1}{5}}
 \newlabel{BrinkFrochSimplified}{{2}{5}}
 \citation{Engelbrecht2004,Trevizoli2015}
@@ -20,22 +20,117 @@
 \newlabel{EnergyEquation_Casing}{{5}{8}}
 \newlabel{Q_HTwall}{{6}{8}}
 \newlabel{Q_csg}{{7}{8}}
+\citation{Patankar1980,Maliska2004}
+\citation{Trevizoli2015}
 \newlabel{Q_csg_cylindrical}{{8}{9}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {2.1}Implementation of the Magnetocaloric Effect}{9}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {2.2}Magnetic Losses due to Demagnetizing Effects}{9}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {3}Numerical Implementation}{9}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Multilayer Implementation?}{9}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {4}Energy Conservation}{9}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Solid Domain}{9}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Fluid Domain}{9}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Casing Domain}{9}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {5}Results and Discussion}{9}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}MCE and Losses Validation}{9}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {5.2}Blow Fraction Validation}{9}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1}Magnetic Losses due to Demagnetizing Effects}{9}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Numerical Implementation}{9}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Momentum Equation}{9}}
+\newlabel{sec:disc-momentum}{{3.1}{9}}
+\citation{Patankar1980,Maliska2004}
+\newlabel{Momentum-disc}{{9}{10}}
+\newlabel{Momentum-disc2}{{10}{10}}
+\newlabel{Momentum-disc3}{{11}{10}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Energy Equations}{10}}
+\newlabel{sec:disc-solid_fluid}{{3.2}{10}}
+\newlabel{1D_GenericForm}{{12}{10}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Basic Cartesian grid for 1D domain.\relax }}{11}}
+\providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
+\newlabel{fig:1D_grid}{{1}{11}}
+\newlabel{1D_FVM1}{{13}{11}}
+\newlabel{1D_FVM1_2}{{14}{11}}
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Variables in the energy equations.\relax }}{12}}
+\newlabel{tab:EnEqVar}{{1}{12}}
+\newlabel{Gen_dis_eq}{{15}{12}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.2.1}Solid Energy Equation}{12}}
+\newlabel{sec:disc-solid}{{3.2.1}{12}}
+\citation{Maliska2004}
+\citation{Maliska2004}
+\citation{Raithby}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.2.2}Fluid Energy Equation}{13}}
+\newlabel{sec:disc-fluid}{{3.2.2}{13}}
+\newlabel{WUDS_alpha}{{22}{14}}
+\newlabel{WUDS_beta}{{23}{14}}
+\newlabel{WUDS_Pe}{{24}{14}}
+\citation{Patankar1980}
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces Fluid boundary conditions.\relax }}{15}}
+\newlabel{tab:fluid-bc}{{2}{15}}
+\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces Coefficients for the fluid boundary conditions.\relax }}{16}}
+\newlabel{tab:fluid-coef-bc}{{3}{16}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Casing Energy Equation}{17}}
+\newlabel{sec:disc-casing}{{3.3}{17}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Basic Cartesian grid for 2D domain.\relax }}{17}}
+\newlabel{fig:2D_grid}{{2}{17}}
+\newlabel{2D_disc}{{25}{17}}
+\newlabel{2D_disc_2}{{26}{18}}
+\newlabel{2D_disc_3}{{27}{18}}
+\newlabel{k_evaluation}{{28}{18}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Distances associated with the interface $\mathrm  {n}$.\relax }}{19}}
+\newlabel{fig:kn_evaluation}{{3}{19}}
+\newlabel{2D-general}{{30}{19}}
+\citation{Trevizoli2015}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4}Multilayer Implementation?}{22}}
+\citation{Maliska2004}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Energy Conservation}{23}}
+\newlabel{En_bal_general}{{34}{23}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Solid Domain}{23}}
+\newlabel{EC_s_conv}{{35}{23}}
+\newlabel{EC_s_trans}{{36}{24}}
+\newlabel{EC_s_mce}{{37}{24}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Energy balance for the solid domain, using the parameters of AMR 1 given in Table \G@refundefinedtrue \text  {\normalfont  \bfseries  ??}\GenericWarning  {               }{LaTeX Warning: Reference `tab:mesh_cases' on page 24 undefined}.\relax }}{24}}
+\newlabel{fig:CE_solid_1}{{4}{24}}
+\newlabel{En_bal_s}{{38}{25}}
+\citation{Trevizoli2015}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Fluid Domain}{26}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Casing Domain}{26}}
+\@writefile{toc}{\contentsline {section}{\numberline {5}Results and Discussion}{26}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}MCE and Losses Validation}{26}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Sum of the heat fluxes as pointed by Eq.\nobreakspace  {}\textup  {\hbox {\mathsurround \z@ \normalfont  (\ignorespaces 38\hbox {}\unskip \@@italiccorr )}}: (a) Using the criteria defined in Section \G@refundefinedtrue \text  {\normalfont  \bfseries  ??}\GenericWarning  {               }{LaTeX Warning: Reference `subsec:conv-crit' on page 27 undefined} ($\varepsilon _\textrm  {cycle}= 10^{-3}$ and $\varepsilon _\textrm  {conv} = 10^{-4}$) and; (b) Using the criteria $\varepsilon _\textrm  {cycle}= \varepsilon _\textrm  {conv} = 10^{-8}$.\relax }}{27}}
+\newlabel{fig:CE_solid_2}{{5}{27}}
+\citation{Trevizoli2015}
+\citation{Trevizoli2015}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Energy balance for the fluid domain, using the parameters of AMR 1 given in Table \G@refundefinedtrue \text  {\normalfont  \bfseries  ??}\GenericWarning  {               }{LaTeX Warning: Reference `tab:mesh_cases' on page 28 undefined}.\relax }}{28}}
+\newlabel{fig:CE_fluid_1}{{6}{28}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces Sum of the heat fluxes as pointed by Eq.\nobreakspace  {}\textup  {\hbox {\mathsurround \z@ \normalfont  (\ignorespaces \G@refundefinedtrue \text  {\normalfont  \bfseries  ??}\GenericWarning  {               }{LaTeX Warning: Reference `En_bal_f' on page 29 undefined}\unskip \@@italiccorr )}}: (a) Using the criteria defined in Section \G@refundefinedtrue \text  {\normalfont  \bfseries  ??}\GenericWarning  {               }{LaTeX Warning: Reference `subsec:conv-crit' on page 29 undefined} ($\varepsilon _\textrm  {cycle}= 10^{-3}$ and $\varepsilon _\textrm  {conv} = 10^{-4}$) and; (b) Using the criteria $\varepsilon _\textrm  {cycle}= \varepsilon _\textrm  {conv} = 10^{-8}$.\relax }}{29}}
+\newlabel{fig:CE_fluid_2}{{7}{29}}
+\citation{Trevizoli2015,LeiPHD}
+\citation{Trevizoli2015}
+\citation{Trevizoli2015}
+\citation{Trevizoli2015}
+\citation{Trevizoli2015}
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces Schematic representation of the points where temperature values are known.\relax }}{30}}
+\newlabel{fig:CE_fluid_adv}{{8}{30}}
+\citation{Trevizoli2015}
+\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces Energy balance for the casing domain, using the parameters of AMR 1 given in Table \G@refundefinedtrue \text  {\normalfont  \bfseries  ??}\GenericWarning  {               }{LaTeX Warning: Reference `tab:mesh_cases' on page 31 undefined}.\leavevmode {\color  {red}refazer essa figura}\relax }}{31}}
+\newlabel{fig:CE_csg_1}{{9}{31}}
+\@writefile{lof}{\contentsline {figure}{\numberline {10}{\ignorespaces Sum of the heat fluxes as pointed by Eq.\nobreakspace  {}\textup  {\hbox {\mathsurround \z@ \normalfont  (\ignorespaces \G@refundefinedtrue \text  {\normalfont  \bfseries  ??}\GenericWarning  {               }{LaTeX Warning: Reference `En_bal_csg' on page 32 undefined}\unskip \@@italiccorr )}}: (a) Using the criteria defined in Section \G@refundefinedtrue \text  {\normalfont  \bfseries  ??}\GenericWarning  {               }{LaTeX Warning: Reference `subsec:conv-crit' on page 32 undefined} ($\varepsilon _\textrm  {cycle}= 10^{-3}$ and $\varepsilon _\textrm  {conv} = 10^{-4}$) and; (b) Using the criteria $\varepsilon _\textrm  {cycle}= \varepsilon _\textrm  {conv} = 10^{-8}$.\leavevmode {\color  {red}refazer essa figura}\relax }}{32}}
+\newlabel{fig:CE_csg_2}{{10}{32}}
+\@writefile{lof}{\contentsline {figure}{\numberline {11}{\ignorespaces Comparison between the numerical model and \cite  {Trevizoli2015} experimental results considering different types of losses for different frequencies and utilization factors.\relax }}{33}}
+\newlabel{fig:results_losses}{{11}{33}}
+\@writefile{lof}{\contentsline {figure}{\numberline {12}{\ignorespaces Comparison between the numerical results (full lines) and \cite  {Trevizoli2015} experimental data (dots) of the cooling power as function of the utilization factor for different temperature spans: (a) $f$ = 0.5 Hz; (b) $f$ = 1 Hz.\relax }}{34}}
+\newlabel{fig:pg255}{{12}{34}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {}}}{34}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {}}}{34}}
+\citation{Nakashima2017}
+\citation{Trevizoli2015}
+\citation{Nakashima2017}
+\citation{Trevizoli2015}
+\citation{Nakashima2017}
+\citation{Nakashima2017}
+\citation{Teyber2016,Nakashima2017}
+\citation{Nakashima2017}
+\citation{Trevizoli2015}
+\citation{Nakashima2017}
+\citation{EriksenPHD,Nakashima2017}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2}Blow Fraction Validation}{35}}
+\@writefile{lof}{\contentsline {figure}{\numberline {13}{\ignorespaces Comparison between the numerical results (full lines) and the experimental data obtained by \cite  {Nakashima2017} (dots) at: (a) $\Delta T_\textrm  {span}$ = 0 K; (b) $\Delta T_\textrm  {span}$ = 5 K.\relax }}{36}}
+\newlabel{fig:Alan}{{13}{36}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {}}}{36}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {}}}{36}}
 \bibstyle{elsarticle-num}
 \bibdata{References_gusttav}
 \bibcite{OliveiraBarbosaJr.2016}{{1}{}{{}}{{}}}
 \providecommand\NAT@force@numbers{}\NAT@force@numbers
-\@writefile{toc}{\contentsline {subsection}{\numberline {5.3}Blow Fraction Validation}{10}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {5.4}First Order Materials Results}{10}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {6}Conclusions}{10}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.3}Multilayer Validation}{37}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.4}First Order Materials Results}{37}}
+\@writefile{toc}{\contentsline {section}{\numberline {6}Conclusions}{37}}
